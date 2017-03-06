@@ -18,7 +18,7 @@ public class SQLUtils {
 
     // connect to MySQL
     public void connSQL() {
-        String url = "jdbc:mysql;//localhost3306/dblp_test";
+        String url = "jdbc:mysql://localhost:3306/dblp_data";
         String username = "root";
         String password = "123456";
 
@@ -31,7 +31,7 @@ public class SQLUtils {
         }
         // 捕获加载驱动异常
         catch (ClassNotFoundException cnfex) {
-            System.err.println("装在JDBC/ODBC 驱动程序失败。");
+            System.err.println("装载JDBC/ODBC 驱动程序失败。");
             cnfex.printStackTrace();
         }
         catch (SQLException sqlex) {
@@ -100,5 +100,9 @@ public class SQLUtils {
             e.printStackTrace();
         }
         return false;
+    }
+
+    public static void main(String[] args) {
+        SQLUtils mysql = new SQLUtils();
     }
 }

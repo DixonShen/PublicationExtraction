@@ -2,10 +2,7 @@ package Block;
 
 import com.sun.deploy.util.StringUtils;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by Z003R98D on 2/24/2017.
@@ -13,7 +10,7 @@ import java.util.Map;
 public class MyBlock {
 
     private List<String> contents = new ArrayList<>();   // store the contents of the block
-    private String label = "";   // note the result of matching step
+    private String label = "None";   // note the result of matching step
 
 //    Map<String, List<String>> map = new HashMap<>();
 //    private boolean isNum = false;  // note whether the contents of the block is num
@@ -36,6 +33,15 @@ public class MyBlock {
 
     public void setLabel(String label) {
         this.label = label;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder val = new StringBuilder(label);
+        val.append(":");
+        for (String content : contents.toArray(new String[0]))
+            val.append(" " + content);
+        return val.toString();
     }
 
 }
