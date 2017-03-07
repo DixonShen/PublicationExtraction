@@ -1,12 +1,10 @@
 package KnowledgeBase;
 
 
+import java.io.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * create the knowledge base
@@ -67,9 +65,87 @@ public class CreateKB {
         return mKB;
     }
 
+    public void saveToFile() {
+        Map<String, List<String>> kb = create();
+        Iterator iterator = kb.keySet().iterator();
+        try {
+            File file = new File("knowledge_base_10000.txt");
+            FileWriter fw = new FileWriter(file);
+            BufferedWriter bw = new BufferedWriter(fw);
+            while (iterator.hasNext()) {
+                Object key = iterator.next();
+                bw.write(key.toString());
+                bw.newLine();
+                List<String> list = kb.get(key);
+                for (String s : list.toArray(new String[0])){
+                    bw.write(s);
+                    bw.newLine();
+                }
+            }
+            bw.flush();
+            bw.close();
+            fw.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+
+        }
+    }
+
+    public Map<String, List<String>> readKBFromFile(String path) {
+        Map<String, List<String>> kb = new HashMap<>();
+        File file = new File(path);
+        try {
+            InputStreamReader fileInputStream = new InputStreamReader(new FileInputStream(file));
+            BufferedReader br = new BufferedReader(fileInputStream);
+            String line;
+            String key = "";
+            boolean isStart = true;
+            List<String> valSet = new ArrayList<>();
+            while ((line = br.readLine()) != null) {
+                if (line.equals("title") || line.equals("author") || line.equals("journal") ||
+                        line.equals("pages") || line.equals("year") || line.equals("volume")) {
+                    if (!isStart){
+                        System.out.println(key + ": " + valSet.size());
+                        List<String> tempValSet = new ArrayList<>(valSet);
+                        kb.put(key, tempValSet);
+                    }
+                    else
+                        isStart = false;
+                    key = line;
+                    valSet.clear();
+                }
+                else {
+                    valSet.add(line);
+                }
+            }
+            valSet.remove("\n");
+            System.out.println(key + ": " +valSet.size());
+            kb.put(key, valSet);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return kb;
+    }
+
     public static void main(String[] args) {
-        String s = "A 3D face animation system for mobile devices.";
-        System.out.println(s.contains("devices"));
+        CreateKB mKB = new CreateKB();
+        Map<String, List<String>> kb = mKB.readKBFromFile("knowledge_base_10000.txt");
+        for (String key : kb.keySet()) {
+            int count = 0;
+            System.out.println(key + ": " + kb.get(key).size());
+            for (String s : kb.get(key).toArray(new String[0])){
+                count++;
+                if (count == 100) {
+                    System.out.println(s);
+                }
+            }
+        }
     }
 
 }
