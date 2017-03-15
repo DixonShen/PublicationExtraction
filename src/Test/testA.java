@@ -12,18 +12,17 @@ import java.util.List;
 public class testA {
 
     public static void main(String[] args) {
-        List<String> list = new ArrayList<>();
-        list.add("hello");
-        list.add("world!");
-        list.add("DixonShen");
-
-        String res = "";
-
-        for (Object s : list.toArray()){
-            res += (String)s;
+        for (int i=0; i<=5; i++) {
+            OUT:
+            for (int j=0; j<5; j++) {
+                for (int k=0; k<5; k++) {
+                    if (k == 3) {
+                        break OUT;
+                    }
+                    System.out.println("world");
+                }
+            }
+            System.out.println("hello");
         }
-
-        System.out.println(res);
-        System.out.print(StringUtils.join(list, " "));
     }
 }
