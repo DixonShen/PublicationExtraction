@@ -79,30 +79,38 @@ public class PrepareTrainingData {
             e.printStackTrace();
         }
 
-        try {
-            FileWriter fw1 = new FileWriter("training_data.txt");
-            FileWriter fw2 = new FileWriter("test_data.txt");
-            int train_count = 1;
-            int test_count = 1;
-            for (String s : trainingData.toArray(new String[0])) {
-                System.out.println(train_count + ": " + s);
-                fw1.write(s);
-                if (s != "\n")
-                    fw1.write("\n");
-                if (s == "\n") train_count++;
-            }
+//        try {
+//            FileWriter fw1 = new FileWriter("training_data.txt");
+//            FileWriter fw2 = new FileWriter("test_data.txt");
+//            int train_count = 1;
+//            int test_count = 1;
+//            for (String s : trainingData.toArray(new String[0])) {
+//                System.out.println(train_count + ": " + s);
+//                fw1.write(s);
+//                if (s != "\n")
+//                    fw1.write("\n");
+//                if (s == "\n") train_count++;
+//            }
+//
+//            for (String s : testingData.toArray(new String[0])) {
+//                System.out.println(test_count + ": " + s);
+//                fw2.write(s);
+//                if (s != "\n")
+//                    fw2.write("\n");
+//                if (s == "\n") test_count++;
+//            }
+//            fw1.close();
+//            fw2.close();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
 
-            for (String s : testingData.toArray(new String[0])) {
-                System.out.println(test_count + ": " + s);
-                fw2.write(s);
-                if (s != "\n")
-                    fw2.write("\n");
-                if (s == "\n") test_count++;
+        for (String s : testingData.toArray(new String[0])) {
+            if (s != "\n") {
+                String[] temp = s.split(" ");
+                System.out.println(temp[temp.length-1]);
             }
-            fw1.close();
-            fw2.close();
-        } catch (IOException e) {
-            e.printStackTrace();
+            else System.out.println("\n");
         }
 
         System.out.println("total items: " + count);
