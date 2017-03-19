@@ -28,7 +28,7 @@ public class Block {
      * @return
      */
     public List<MyBlock> doBlock(String record) {
-        record = record.replaceAll("[\\pP]", " ");
+        record = record.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
         System.out.println(record);
         System.out.println("start blocking step!");
         List<MyBlock> result = new ArrayList<>();
@@ -66,7 +66,7 @@ public class Block {
     }
 
     public boolean isContains(String s, String term1, String term2) {
-        s = s.replaceAll("[\\pP]", " ");
+        s = s.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
         String[] terms = s.split(" +");
         return (isContain(terms, term1) && isContain(terms, term2));
     }

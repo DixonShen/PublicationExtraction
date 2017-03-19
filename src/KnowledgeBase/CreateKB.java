@@ -108,7 +108,6 @@ public class CreateKB {
                 if (line.equals("title") || line.equals("author") || line.equals("journal") ||
                         line.equals("pages") || line.equals("year") || line.equals("volume")) {
                     if (!isStart){
-                        System.out.println(key + ": " + valSet.size());
                         List<String> tempValSet = new ArrayList<>(valSet);
                         kb.put(key, tempValSet);
                     }
