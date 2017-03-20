@@ -20,21 +20,21 @@ public class Matching {
         s = s.replaceAll(" ", "");
         char[] chs = s.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", "").toCharArray();
         for (char ch : chs) {
-            if (ch < '1' || ch > '9')
+            if (ch < '0' || ch > '9')
                 return false;
         }
         return true;
     }
 
     public static double CalculateAF(MyBlock myBlock, List<String> valueSet) {
-
+        return 0;
     }
 
     public static double NumericMatching(MyBlock myBlock, List<String> valueSet) {
         return 0;
     }
 
-    public static void
+    public
 
     public static void doMatching(List<MyBlock> blocks, Map<String, List<String>> mKB) {
         for (MyBlock mb : blocks.toArray(new MyBlock[0])) {

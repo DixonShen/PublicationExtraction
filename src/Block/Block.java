@@ -22,6 +22,10 @@ public class Block {
         System.out.println(i);
     }
 
+    public Map<String, List<String>> getmKB(){
+        return mKB;
+    }
+
     /**
      *
      * @param record
