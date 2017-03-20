@@ -37,7 +37,7 @@ public class MyBlock {
 
     @Override
     public String toString() {
-        StringBuilder val = new StringBuilder(label);
+        StringBuilder val = new StringBuilder(this.getLabel());
         val.append(":");
         for (String content : contents.toArray(new String[0]))
             val.append(" " + content);
