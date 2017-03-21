@@ -57,6 +57,7 @@ public class Vocabulary {
             setStandardDeviation();
             System.out.println(this.standardDeviation);
         }
+        System.out.println("Generating Completely!");
     }
 
     public void setAverage() {
