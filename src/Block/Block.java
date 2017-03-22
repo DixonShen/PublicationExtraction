@@ -19,7 +19,7 @@ public class Block {
         for (List<String> list : mKB.values())
             for (String s : list.toArray(new String[0]))
                 i++;
-        System.out.println(i);
+
     }
 
     public Map<String, List<String>> getmKB(){

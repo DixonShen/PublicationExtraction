@@ -64,10 +64,6 @@ public class Vocabulary {
         double sum = 0;
         for (int a : numbers) {
             sum += a;
-            if (this.label.equals("pages")) {
-                System.out.println(a);
-                System.out.println(sum);
-            }
         }
         this.average = (double)(sum/numbers.size());
     }

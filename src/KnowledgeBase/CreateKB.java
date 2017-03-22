@@ -121,7 +121,7 @@ public class CreateKB {
                 }
             }
             valSet.remove("\n");
-            System.out.println(key + ": " +valSet.size());
+//            System.out.println(key + ": " +valSet.size());
             kb.put(key, valSet);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
