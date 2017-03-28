@@ -7,8 +7,9 @@
 - [x] CRF数据预处理
  - CRF数据预处理
  - 实验结果：Accuracy 87%
-- [ ] ONDUX
- - 【√】Knowledge Base已生成
- - 【√】Blocking
- - Matching （coding）
- - PSM（To do）
+- [x] ONDUX
+ - Knowledge Base已生成
+ - Blocking
+ - Matching 
+ - PSM
+- [ ] 实验结果（未统计）
