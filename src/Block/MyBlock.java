@@ -2,6 +2,7 @@ package Block;
 
 import com.sun.deploy.util.StringUtils;
 
+import java.math.BigDecimal;
 import java.util.*;
 
 /**
@@ -11,6 +12,7 @@ public class MyBlock {
 
     private List<String> contents = new ArrayList<>();   // store the contents of the block
     private String label = "None";   // note the result of matching step
+    private String simFunc;
 
 //    Map<String, List<String>> map = new HashMap<>();
 //    private boolean isNum = false;  // note whether the contents of the block is num
@@ -33,6 +35,14 @@ public class MyBlock {
 
     public void setLabel(String label) {
         this.label = label;
+    }
+
+    public void setSimFunc(String simFunc) {
+        this.simFunc = simFunc;
+    }
+
+    public String getSimFunc() {
+        return this.simFunc;
     }
 
     @Override

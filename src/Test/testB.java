@@ -5,14 +5,23 @@ package Test;
  */
 public class testB {
 
-    public static void change(String s) {
-        s = "zhangsan";
+    public double setAverage(int[] s) {
+        double sum = 0;
+        for (double a : s) {
+            sum += a;
+        }
+        return (double)(sum / s.length);
+    }
+
+    public double setStandardDeviation(int[] s, double average){
+        double sum = 0;
+        for (int a : s) {
+            sum += ((double)a - average) * ((double)a - average);
+        }
+        return Math.sqrt(sum / s.length);
     }
 
     public static void main(String[] args) {
-        String s = new String("lisi");
-        System.out.println(s);
-        change(s);
-        System.out.println(s);
+        double[] s = {1, 2};
     }
 }

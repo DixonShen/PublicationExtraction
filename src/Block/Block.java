@@ -51,7 +51,7 @@ public class Block {
             for (List<String> valueSet : mKB.values()) {
                 for (String s : valueSet.toArray(new String[0])) {
                     if (isContains(s, terms[i-1], terms[i])) {
-                        System.out.println(terms[i-1] + ", " + terms[i] + "; " + s);
+                        System.out.println(terms[i-1] + ", " + terms[i] + ": " + s);
                         myBlock[index].addOneString(terms[i]);
                         isFound = true;
                         break OUT;

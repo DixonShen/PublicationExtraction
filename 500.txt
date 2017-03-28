@@ -1,0 +1,550 @@
+Wei-Hsi Hung,Kuanchin Chen,Chieh-Pin Lin,Does the proactive personality mitigate the adverse effect of technostress on productivity in the mobile environment?,Telematics and Informatics,2015,32,143-157
+Eilat Chen Levy,Sheizaf Rafaeli,Yaron Ariel,The effect of online interruptions on the quality of cognitive performance.,Telematics and Informatics,2016,33,1014-1021
+Samuel Pierre,Mobile computing and networking technologies.,Telematics and Informatics,2001,18,105-107
+George M. Moutafides,Anastasios A. Economides,Demand for broadband access in Greece.,Telematics and Informatics,2011,28,125-141
+Josip Zoric,Connecting business models with service platform designs: Exploiting potential of scenario modeling.,Telematics and Informatics,2011,28,40-54
+Mohammad Dalvi Esfahani,T. Ramayah,Mehrbakhsh Nilashi,Modelling upper echelons' behavioural drivers of Green IT/IS adoption using an integrated Interpretive Structural Modelling - Analytic Network Process approach.,Telematics and Informatics,2017,34,583-603
+Vasilis Kostakis,Marios Papachristou,Commons-based peer production and digital fabrication: The case of a RepRap-based, Lego-built 3D printing-milling machine.,Telematics and Informatics,2014,31,434-443
+Christos Bouras,Panagiotis Destounis,John D. Garofalakis,Vassilis Triantafillou,Giannis Tzimas,Panagiotis Zarafidis,A co-operative environment for local government: an Internet-Intranet approach.,Telematics and Informatics,1999,16,75-89
+Ali A. Dashti,Ali A. Al-Kandari,Hamed H. Al-Abdullah,The influence of sectarian and tribal discourse in newspapers readers' online comments about freedom of expression, censorship and national unity in Kuwait.,Telematics and Informatics,2015,32,245-253
+Yung-Ting Chuang,MEMIS: A Mobile-Supported English-Medium Instruction System.,Telematics and Informatics,2017,34,640-656
+Pan Ji,Emotional criticism as public engagement: How weibo users discuss "Peking University statues wear face-masks".,Telematics and Informatics,2016,33,514-524
+Harina Suk-Ching Tang,Paul S. N. Lee,Growth in adversity: non-economic factors in telecommunications development in China.,Telematics and Informatics,2003,20,19-33
+Wendy W. L. Goh,Susanna Bay,Vivian Hsueh-Hua Chen,Young school children's use of digital devices and parental rules.,Telematics and Informatics,2015,32,787-795
+Jeffrey James,Information technology use among individuals in rich and poor countries: The disappearing divide.,Telematics and Informatics,2009,26,317-321
+Sakari Taipale,Bodily dimensions of reading and writing practices on paper and digitally.,Telematics and Informatics,2015,32,766-775
+Indrek Ibrus,Evolutionary dynamics of media convergence: Early mobile web and its standardisation at W3C.,Telematics and Informatics,2013,30,66-73
+Yasser Mattar,Post-industrialism and Silicon Valley as models of industrial governance in Australian public policy.,Telematics and Informatics,2008,25,246-261
+Mark Turner,Steve Love,Mark Howell,Understanding emotions experienced when using a mobile phone in public: The social usability of mobile (cellular) telephones.,Telematics and Informatics,2008,25,201-215
+Sheikh Taher Abu,Technological innovations and 3G mobile phone diffusion: Lessons learned from Japan.,Telematics and Informatics,2010,27,418-432
+Louis Leung,Paul S. N. Lee,Multiple determinants of life quality: the roles of Internet activities, use of new media, social support, and leisure activities.,Telematics and Informatics,2005,22,161-180
+Kasper Edwards,An economic perspective on software licenses--open source, maintainers and user-developers.,Telematics and Informatics,2005,22,111-133
+Lilia Filipova-Neumann,Peter Welzel,Reducing asymmetric information in insurance markets: Cars with black boxes.,Telematics and Informatics,2010,27,394-403
+Markus Schneider 0008,Anders Henten,DRMS, TCP and the EUCD: technology and law.,Telematics and Informatics,2005,22,25-39
+Anders Henten,Morten Falch,Amos Anyimadu,Telecommunications development in Africa: filling the gap.,Telematics and Informatics,2004,21,1-9
+Carolyn A. Lin,Technology fluidity and on-demand webcasting adoption.,Telematics and Informatics,2008,25,84-98
+Marianne C. Bickle,Judy McKenna,Susan T. Meyer,G. Charles Mabry,Creating a virtual community to enhance member services: credit unions and e-commerce.,Telematics and Informatics,2004,21,157-165
+Jia-Jia Sim,Garry Wei-Han Tan,Jessica C. J. Wong,Keng-Boon Ooi,Teck-Soon Hew,Understanding and predicting the motivators of mobile music acceptance - A multi-stage MRA-artificial neural network approach.,Telematics and Informatics,2014,31,569-584
+Leo W. Jeffres,David J. Atkin,Kimberly A. Neuendorf,Carolyn A. Lin,The influence of expanding media menus on audience content selection.,Telematics and Informatics,2004,21,317-334
+Olumide Sunday Adewale,Samuel Oluwole Falaki,The generic architecture for data/internet telephony in Nigeria.,Telematics and Informatics,2003,20,297-313
+Wendy Van den Broeck,Joke Bauwens,Jo Pierson,The promises of iDTV: Between push marketing and consumer needs.,Telematics and Informatics,2011,28,230-238
+Olivier Braet,Pieter Ballon,Cooperation models for mobile television in Europe.,Telematics and Informatics,2008,25,216-236
+Harry Bouwman,Wim Hulsink,A dynamic model of Cyber-entrepreneurship and cluster formation: applications in the United States and in the Low Countries.,Telematics and Informatics,2002,19,291-313
+Kenneth C. C. Yang,Information Technologies and Global Politics, James N. Rosenau and J.P. Singh (eds.); Albany, NY: State University of New York Press, 2002, 312 pages, ISBN 0-7914-5204-2.,Telematics and Informatics,2004,21,289-291
+Orhan Dagli,Glenn P. Jenkins,Consumer preferences for improvements in mobile telecommunication services.,Telematics and Informatics,2016,33,205-216
+Jan Servaes,Introduction to 'Green ICT'.,Telematics and Informatics,2012,29,335-336
+Bing Zhang,Understanding impact of convergence on broadband industry regulation: a case study of the United States.,Telematics and Informatics,2002,19,37-59
+Shin-Il Moon,Kitae Kim,Thomas Hugh Feeley,Dong-Hee Shin,A normative approach to reducing illegal music downloading: The persuasive effects of normative message framing.,Telematics and Informatics,2015,32,169-179
+Olivier Arifon,Nicolas Vanderbiest,Integrating social networks in a lobbying campaign: The case study of Intermarché, a supermarket chain.,Telematics and Informatics,2016,33,1105-1118
+Daniel Palacios Marqués,Pedro Soto-Acosta,José M. Merigó,Analyzing the effects of technological, organizational and competition factors on Web knowledge exchange in SMEs.,Telematics and Informatics,2015,32,23-32
+Shah Jahan Miah,Jahidul Hasan,John G. Gammack,On-Cloud Healthcare Clinic: An e-health consultancy approach for remote communities in a developing country.,Telematics and Informatics,2017,34,311-322
+Wee-Kheng Tan,The relationship between smartphone usage, tourist experience and trip satisfaction in the context of a nature-based destination.,Telematics and Informatics,2017,34,614-627
+Karol Jakubowicz,Community media: "Flavour of the decade" worldwide. A keynote address at the AMARC Europe Conference.,Telematics and Informatics,2010,27,119-121
+Christos Bouras,Panagiotis Destounis,John D. Garofalakis,Apostolos Gkamas,G. Sakalis,Evangelos Sakkopoulos,John Tsaknakis,Thrasyvoulos Tsiatsos,Efficient web-based open and distance learning services.,Telematics and Informatics,2000,17,213-237
+Kenneth C. C. Yang,Exploring factors affecting the adoption of mobile commerce in Singapore.,Telematics and Informatics,2005,22,257-277
+Sahar Afshan,Arshian Sharif,Acceptance of mobile banking framework in Pakistan.,Telematics and Informatics,2016,33,370-387
+Choy-Har Wong,Garry Wei-Han Tan,Boon-In Tan,Keng-Boon Ooi,Mobile advertising: The changing landscape of the advertising industry.,Telematics and Informatics,2015,32,720-734
+Siriginidi Subba Rao,Internet telephony in India.,Telematics and Informatics,2008,25,57-71
+Jiyoung Cha,Does genre type influence choice of video platform? A study of college student use of internet and television for specific video genres.,Telematics and Informatics,2013,30,189-200
+Nikhilesh Dholakia,Detlev Zwick,Cultural contradictions of the anytime, anywhere economy: reframing communication technology.,Telematics and Informatics,2004,21,123-141
+Ruby Roy Dholakia,Electronic markets in the post-euphoric phase: relationships, values and behaviors.,Telematics and Informatics,2004,21,115-121
+Stefania Milan,On the edge. AMARC Europe between 'movement entrepreneurs' and the grassroots. Notes from the Bucharest meeting.,Telematics and Informatics,2010,27,200-204
+Ahmad A. Sharif,Ali A. Al-Kandari,The use of online bulletin boards by females in the Gulf Cooperation Council Countries.,Telematics and Informatics,2010,27,42-50
+Farid Shirazi,Ojelanki K. Ngwenyama,Olga Morawczynski,ICT expansion and the digital divide in democratic freedoms: An analysis of the impact of ICT expansion, education and ICT filtering on democracy.,Telematics and Informatics,2010,27,21-31
+Robert G. Picard,Charles H. Davis,Franco Papandrea,Sora Park,Platform proliferation and its implications for domestic content policies.,Telematics and Informatics,2016,33,683-692
+Wendy Willems,Participation - In what? Radio, convergence and the corporate logic of audience input through new media in Zambia.,Telematics and Informatics,2013,30,223-231
+Dong-Hee Shin,Min Jae Choi,Ecological views of big data: Perspectives and issues.,Telematics and Informatics,2015,32,311-320
+Isidora Milosevic,Dragana Zivkovic,Sanela Arsic,Dragan Manasijevic,Facebook as virtual classroom - Social networking in learning and teaching among Serbian students.,Telematics and Informatics,2015,32,576-585
+Andraz Petrovcic,Leopoldina Fortunati,Vasja Vehovar,Matic Kavcic,Vesna Dolnicar,Mobile phone communication in social support networks of older adults in Slovenia.,Telematics and Informatics,2015,32,642-655
+Reza Tadayoni,Halldór Matthías Sigurðsson,Development of alternative broadband infrastructures - Case studies from Denmark.,Telematics and Informatics,2007,24,331-347
+Eunil Park,Ki Joon Kim,An Integrated Adoption Model of Mobile Cloud Services: Exploration of Key Determinants and Extension of Technology Acceptance Model.,Telematics and Informatics,2014,31,376-385
+Joey Reagan,Bruce Pinkleton,Ann Thornsen,Michelle Miller 0004,Jenny Main,Motivations as predictors of information source perceptions: traditional media and new technologies.,Telematics and Informatics,1998,15,1-10
+Hyunjoo Lee,Namsu Park,Yongsuk Hwang,A new dimension of the digital divide: Exploring the relationship between broadband connection, smartphone use and communication competence.,Telematics and Informatics,2015,32,45-56
+Book Reviews.,Object Oriented Systems,1996,3,159-163
+Evalyn N. Wafula,Paul A. Swatman,FOOM: a diagrammatic illustration of Object-Z specifications.,Object Oriented Systems,1996,3,215-242
+Mahesh Dodani,Chung-Shin Tsai,A reliable and flexible type system for object-oriented programming.,Object Oriented Systems,1996,3,87-121
+Jin Song Dong,Roger Duke,Gordon A. Rose,An object-oriented denotational semantics of a small programming language.,Object Oriented Systems,1997,4,29-52
+Ian M. Graham,Task scripts, use cases and scenarios in object oriented analysis.,Object Oriented Systems,1996,3,123-142
+Steven D. Sheetz,David P. Tegarden,Perceptual complexity of object oriented systems: a student view.,Object Oriented Systems,1996,3,165-195
+Brian Henderson-Sellers,Larry L. Constantine,Ian M. Graham,Coupling and cohesion (towards a valid metrics suite for object-oriented analysis and design).,Object Oriented Systems,1996,3,143-158
+Jan Bosch,Abstracting object state.,Object Oriented Systems,1997,4,1-26
+Marc Van Limberghen,Tom Mens,Encapsulation and composition as orthogonal operators on mixins: a solution to multiple inheritance problems.,Object Oriented Systems,1996,3,1-30
+Jacques Malenfant,Guy Lapalme,Jean G. Vaucher,ObjVProlog-D: distributed object-oriented programming in logic.,Object Oriented Systems,1996,3,61-86
+Book Reviews.,Object Oriented Systems,1996,3,51-59
+Russell Bradford,An implementation of Telos in Common Lisp.,Object Oriented Systems,1996,3,31-49
+Yariv Aridor,Shimon Cohen,Amiram Yehudai,SYMPAL: a software environment for implicit concurrent object-oriented programming.,Object Oriented Systems,1997,4,53-81
+Gail C. Murphy,David Notkin,On the use of static typing to support operations on frameworks.,Object Oriented Systems,1996,3,197-213
+Steven Butler,Roger Duke,Defining composition operators for object interaction.,Object Oriented Systems,1998,5,1-16
+Martin Beckinsale,E-Business Among Ethnic Minority Businesses: The Case of Ethnic Entrepreneurs.,IJEA,2009,1,75-94
+M. Makris,Vaios Koumaras,Harilaos Koumaras,A. Konstantopoulou,S. Konidis,Quantifying Factors Influencing the Adoption of Internet Banking Services in Greece.,IJEA,2009,1,20-32
+Ibrahim Arpaci,Tarkan Gürbüz,Innovation in Learning: Innovative Tools and Techniques for Learning.,IJEA,2011,3,29-37
+Poornima Narayan R.,Chandana Unnitha,An ICT Enabled Conceptual Framework for Determining Epidemic Susceptibility and Acute Type Response: An Exemplar from India.,IJEA,2012,4,55-69
+Paul Lam,Josephine Csete,Carmel McNaught,Costs of E-Learning Support: An Investigation Across 139 Small Projects.,IJEA,2009,1,61-75
+Zeki Özen,Fatma Önay Koçoglu Bakioglu,Samil Beden,The Examination of User Habits through the Google Analytic Data of Academic Education Platforms.,IJEA,2014,6,31-45
+Ali Acilar,Çaglar Karamasa,Factors Affecting the E-Commerce Adoption by Small Hotels: A Comparative Case Study.,IJEA,2012,4,1-10
+Catherine Chen,Joel Whitesel,The Validity and Reliability Study of a Revised Motivated Strategy for Learning Questionnaire (MSLQ) for Assessing Computer Software Learning Strategies.,IJEA,2012,4,28-51
+Arne Tauber,Requirements and Properties of Qualified Electronic Delivery Systems in eGovernment: An Austrian Experience.,IJEA,2010,2,45-58
+Mohammad Reza Hanafizadeh,Payam Hanafizadeh,Abbas Saghaei,The Pros and Cons of Digital Divide and E-Readiness Assessments.,IJEA,2009,1,1-29
+Togan Karatas,Elif Kartal Karatas,A Study on the Role of Open Education Faculty, the Leader of Distance Learning in Turkey, in Higher Education and its Educational-Social Dynamics.,IJEA,2011,3,1-12
+Henk Eijkman,Allan Herrmann,Kathy Savige,E-Assessment as a Driver for Cultural Change in Network-Centric Learning.,IJEA,2010,2,14-25
+Farhod P. Karimov,Factors Influencing E-Commerce Growth: A Comparative Study of Central Asian Transition Economies.,IJEA,2011,3,29-43
+Burcu Adigüzel Mercangöz,Çigdem Aricigil Çilan,M. Erdal Balaban,Measuring Lecturers' Perception of Transition to E-Learning Systems and Digital Divide: A Case Study in School of Business Administration of Istanbul University.,IJEA,2011,3,13-21
+Li-Chun Huang,Chia-Ping Yu,A Model of Leadership Behavior in Massively Multiplayer Online Role-Playing Games.,IJEA,2015,7,15-31
+Donald L. Amoroso,Scott Hunsinger,Measuring the Acceptance of Internet Technology by Consumers.,IJEA,2009,1,48-81
+Tzu-Hong Lin,Hsi-Peng Lu,Huei-Hsia Hsu,San-San Hsing,Tai-Li Ho,Why do People Continue to Play Social Network Game (SNG)?: An Empirical Study by Social and Emotional Perspectives.,IJEA,2013,5,22-35
+Shawn Oluwafemi Ogunseye,Olusegun Folorunso,Jeff Zhang,Preventing Social Engineering and Espionage in Collaborative Knowledge Management Systems (KMSs).,IJEA,2011,3,44-51
+Essa Alfahel,Wajeeh Daher,Jamal Abu-Hussain,Teachers' Perceptions of the Interactive Boards for Teaching and Learning: The Case of Arab Teachers in Israel.,IJEA,2012,4,33-50
+Roberto Caldelli,Rudy Becarelli,Francesco Filippini,Francesco Picchioni,Riccardo Giorgetti,Electronic Voting by Means of Digital Terrestrial Television The Infrastructure, Security Issues and a Real Test-bed.,IJEA,2010,2,1-12
+Khaled Saleh Al Omoush,Ibrahim Mahmoud Al Ali,The Adoption of Web-Based Supply Chain Management Applications: An Institutional Perspective.,IJEA,2012,4,48-70
+Mark Deakin,From The City Of Bits to E-Topia: Space, Citizenship and Community as Global Strategy.,IJEA,2014,6,16-33
+Nazim U. Ahmed,Ray Montagno,Sushil Sharma,Strategy and Structure in a Virtual Organization.,IJEA,2010,2,48-60
+Shima Mohebbi,Vahid Khatibi,Abbas Keramati,A Household Internet Adoption Model Based on Integration of Technology Acceptance Model, Theory of Planned Behavior, and Uses and Gratifications Theory: An Empirical Study on Iranian Households.,IJEA,2012,4,51-69
+Kuanchin Chen,Jengchung Victor Chen,Perceived Utility in Online Auctions: A Joint-Effect of Vendor, Product and Pricing.,IJEA,2014,6,34-52
+Chengbo Wang,Exploration on E-learning Methods and Factors Hindering their Usage: An Empirical Case Investigation.,IJEA,2009,1,23-35
+Abdulwasiu Kailani AbdulRahim,Olusegun Folorunso,Sushil K. Sharma,An Improved Dynavote E-Voting Protocol Implementation.,IJEA,2011,3,44-61
+Daniel John Doiron,Internet Marketing & SMEs.,IJEA,2009,1,19-39
+Chia-Wen Tsai,Pei-Di Shen,Ya-Ting Fan,Investigation of Student Learning Assistance through Online Academic Help-Seeking and a Mobile Application: A Quasi-Experimental Approach.,IJEA,2015,7,1-16
+Zerrin Ayvaz-Reis,Investigating the Attitude of Students Towards Online Learning.,IJEA,2010,2,35-47
+Rui K. Chen,Sushil Sharma,Theorizing Intercultural Accommodation in Consumer E-Commerce.,IJEA,2009,1,82-92
+A. K. M. Najmul Islam,Understanding the Continued Usage Intention of Educators toward an e-Learning System.,IJEA,2011,3,54-69
+Paul Lam,Judy Lo,Antony Yeung,Carmel McNaught,Examining Diffusion and Sustainability of E-Learning Strategies through Weblog Data.,IJEA,2010,2,39-52
+Vaggelis Saprikis,An Empirical Investigation of Internet Users' Perceptions towards National and International e-Shops.,IJEA,2015,7,45-59
+Keith Thomas,Paul Lam,Annisa Ho,Diffusion of E-Learning Practice in an Educational Institution: Organizational Learning Attributes and Capabilities.,IJEA,2010,2,1-13
+Wajeeh Daher,Wiki Interaction Tracks in Geometry Learning.,IJEA,2010,2,15-34
+Pi-Fang Hsu,Tien-Chun Lu,Chia-Wen Tsai,Evaluating Mobile Application Development Firms: Comparing Views of Advertisers and Advertising Agencies.,IJEA,2014,6,53-66
+Vaggelis Saprikis,Consumers' Perceptions towards E-Shopping Advertisements and Promotional Actions in Social Networking Sites.,IJEA,2013,5,36-47
+Yi-Fen Chen,Chia-Wen Tsai,Bo-Ying Chen,Who Likes to Meet Blind Dating on the Internet?,IJEA,2013,5,1-16
+Robert Williams,Gary P. Packham,Brychan C. Thomas,Piers Thompson,Small Business Sales Growth and Internationalization Links to Web Site Functions in the United Kingdom.,IJEA,2009,1,40-74
+Alper Özpinar,Erdem Yavuz,E-Commerce Training with Virtual Commerce Simulation.,IJEA,2011,3,20-26
+Thamer Alhussain,Steve Drew,Employees' Perceptions of Biometric Technology Adoption in E-Government: An Exploratory Study in the Kingdom of Saudi Arabia.,IJEA,2010,2,59-71
+Jeanne C. Samuel,From "S" to "J": A Theoretical Technology Adoption Rate Model.,IJEA,2009,1,55-68
+Sadia Jabeen,Aisha Muhammad Din,Muhammad Farhan Sadiq,Students' Satisfaction from E-Learning System: A Case Study of Virtual University of Pakistan.,IJEA,2014,6,1-13
+Salih Gümüs,M. Recep Okur,Use of Virtual Classrooms in Online Learning Environments.,IJEA,2011,3,11-19
+Tonjia S. Coverdale,Anthony D. Wilbon,The Impact of In-Group Membership on e-Loyalty of Women Online Shoppers: An Application of the Social Identity Approach to Website Design.,IJEA,2013,5,17-36
+Saleh Alwahaishi,Václav Snásel,Modeling the Determinants Affecting Consumers' Acceptance and Use of Information and Communications Technology.,IJEA,2013,5,25-39
+Chris Evans,Luis Palacios,Interactive Self-Assessment Questions within a Virtual Environment.,IJEA,2011,3,1-10
+Stephen Asunka,Are We There Yet?: An Exploratory Predictive Study of Instructor Acceptance of an Educational Tablet Computer.,IJEA,2016,8,35-49
+Almaaf Bader Ali A,Jian-Jun Miao,Quang-Dung Tran,B2B E-Commerce Institutionalization in SMEs in Less Developed Countries: A Model and Instrument.,IJEA,2013,5,1-21
+Kelvin Joseph Bwalya,Tanya Du Plessis,Chris Rensleigh,Multi-Dimensional Factors Impacting on E-Government Adoption in Botswana, Mozambique and Malawi.,IJEA,2011,3,20-32
+Kamel Rouibah,Thurasamy Ramayah,Oh Sook May,User Acceptance of Internet Banking In Malaysia: Test of Three Competing Models.,IJEA,2009,1,1-19
+Fiona McMahon,Aodheen O'Donnell,Electronic Customer Relationship Management and SME Marketing Practice: Exploring Potential Synergies.,IJEA,2009,1,95-110
+Indu Nair,Bardo Fraunholz,Chandana R. Unnithan,Are ICT/Web 2.0 Tools Influencing Civic Engagement in Modern Democracies?: An Exploratory Analysis from India.,IJEA,2012,4,70-85
+Ashok Darisipudi,Sushil Kumar Sharma,Jeff Zhang,Tom Harris,Sheila Smith,Usability Testing of an Interactive Online Movie Download Service: A HCI Study.,IJEA,2013,5,48-71
+Pi-Fang Hsu,Yi-Wen Su,Chia-Wen Tsai,Developing a Hierarchy Model for Selection of Social Media Manager.,IJEA,2015,7,17-31
+Olusegun Folorunso,Catherine Chen,Nazim U. Ahmed,Thomas Harris,Towards Active Citizen-Centric E-Government Systems for Developing Countries.,IJEA,2012,4,52-64
+Olusegun Folorunso,Rebecca Opeoluwa Vincent,Adewale Akintayo Ogunde,Benjamin Agboola,Knowledge Sharing Adoption Model Based on Artificial Neural Networks.,IJEA,2010,2,1-14
+Adeyinka Tella,Determinants of E-Payment Systems Success: A User's Satisfaction Perspective.,IJEA,2012,4,15-38
+Abbas Keramati,H. Javadi Sharif,Naser Azad,Rahman Soofifard,Role of Subjective Norms and Perceived Behavioral Control of Tax Payers in Acceptance of E-Tax Payment System.,IJEA,2012,4,1-14
+Thomas Rössler,Electronic Voting Using Identity Domain Separation and Hardware Security Modules.,IJEA,2010,2,30-44
+Hsien-Tang Ko,Hsi-Peng Lu,Determinants of Adopting Intelligent Broadband Services in Residential Community.,IJEA,2012,4,11-32
+Tsui-Yii Shih,Determinates of Consumer Adoption Attitudes: An Empirical Study of Smart Home Services.,IJEA,2013,5,40-56
+Yi-Fen Chen,Chia-Wen Tsai,Yen-Fang Tseng,Factors Influencing Consumer Adoption for Network Fellowship Auction in Taiwan.,IJEA,2016,8,50-62
+Thurasamy Ramayah,Lo May Chiun,Kamel Rouibah,Oh Sook May,Identifying Priority Using an Importance-Performance Matrix Analysis (IPMA): The Case of Internet Banking in Malaysia.,IJEA,2014,6,1-15
+Lee Wilson,Tiong T. Goh,William Yu Chung Wang,Big Data Management Challenges in a Meteorological Organisation.,IJEA,2012,4,1-14
+Morten Hjelholt,Performative Actions in E-Adoption Processes: Strategic Efforts in a Local Government.,IJEA,2015,7,32-44
+Arumugam Seetharaman,John Rudolph Raj,Evolution, Development and Growth of Electronic Money.,IJEA,2009,1,76-94
+Juha Kettunen,Intranet as a Quality Manual in Higher Education.,IJEA,2011,3,33-43
+Ibrahim Arpaci,A Qualitative Study on the Adoption of Bring Your Own Device (BYOD) Practice.,IJEA,2015,7,1-14
+Hany Abdelghaffar,Lina Galal,Assessing Citizens Acceptance of Mobile Voting System in Developing Countries: The Case of Egypt.,IJEA,2012,4,15-27
+Emad Ahmed Abu-Shanab,Gender and Age: Moderators or Predictors of E-Government Acceptance?,IJEA,2015,7,32-51
+Sebnem Özdemir,Emre Akadal,Zerrin Ayvaz-Reis,An Analysis of the Education Category in App Markets.,IJEA,2014,6,14-30
+Chia-Wen Tsai,Pei-Di Shen,Improving Students' Computing Skills and Attitudes toward Learning via Web-Mediated Self-Regulated Learning with Feedback in an Online Problem-Solving Environment.,IJEA,2011,3,37-53
+Nitish Singh,John E. Spillan,Joseph P. Little,Web Site Localization Practices: Some Insights into the Localization Industry.,IJEA,2009,1,36-54
+Fahri Unsal,Kurt Komaromi,G. Scott Erickson,Trust in E-Commerce: Social Networks vs. Institutional Credibility.,IJEA,2011,3,1-12
+Pi-Fang Hsu,Shu-Yu Lin,Chia-Wen Tsai,Optimal Selection of Korean Dramas for Commercial TV Stations in Taiwan by Using the AHP.,IJEA,2013,5,14-24
+Badreya Al-Jenaibi,Satisfying Public Relations: The Promise of Social Media in the UAE.,IJEA,2013,5,1-16
+Po-Chien Chang,Relationships between Individuals' Convergence Readiness and Performance in Using Mobile Phones.,IJEA,2016,8,13-34
+Geoffrey Roulet,Supporting Online Collaborative Mathematical Exploration: Studying the Development of Collective Knowledge within Math-Towers.,IJEA,2011,3,27-36
+Mohammad Reza Hanafizadeh,Payam Hanafizadeh,Erik Bohlin,Digital Divide and e-Readiness: Trends and Gaps.,IJEA,2013,5,30-75
+Peter Woodhead,David M. Kennedy,Digital Natives and H1N1: How Adversity Can Drive Change.,IJEA,2010,2,53-66
+Tao Zhou,Examining Mobile Banking User Trust: A Tripartite Perspective.,IJEA,2013,5,17-29
+Boumediene Ramdani,Oswaldo Lorenzo,Peter Kawalek,Information Systems Innovations Adoption and Diffusion Among SMEs: Current Status and Future Prospects.,IJEA,2009,1,33-45
+T. Eugene Day,Ajit N. Babu,Steven M. Kymes,Nathan Ravi,Discrete Event Simulation and Real Time Locating Systems: Technology Integration for Process Improvement.,IJEA,2012,4,16-28
+Pei-Di Shen,Tsang-Hsiung Lee,Chia-Wen Tsai,Yi-Fen Chen,The Different Key Processes in the Implementation of Knowledge Management Among IC Designers, Distributors and Manufacturers.,IJEA,2009,1,46-60
+Kiyana Zolfaghar,Farid Khoshalhan,Mohammad Rabiei,User Acceptance of Location-Based Mobile Advertising: An Empirical Study in Iran.,IJEA,2010,2,35-47
+Nesrin Özsoy,Serife Ak,Deniz Özen,Yusuf Yilmaz,The Effect of Online Collaboration Environment on Prospective Teachers' Attitude and the Evaluation of Their Opinions.,IJEA,2011,3,38-46
+Sibylle Mabry,Driving IT Architecture Innovation: The Roles of Competing Organizational Cultures and Collaborating Upper Echelons.,IJEA,2010,2,1-18
+Fatih Gursul,Hafize Keser,Sevinc Gulsecen,Adoption of PBL to Online Environments: Student's Perspectives.,IJEA,2010,2,19-34
+Christèle Joly,Nathalie Iseli-Chan,Impact of E-Adoption on Teaching and Learning in the Context of Teaching French.,IJEA,2010,2,26-38
+Pi-Fang Hsu,Chia-Wen Tsai,Evaluating the Virtual Products for Online Games via the Grey Relational Analysis.,IJEA,2012,4,39-47
+Hany Abdelghaffar,Hussien Moustafa,Exploring the Factors Affecting the Intention to Use C2C Auction Websites in Egypt.,IJEA,2013,5,1-13
+Changsoo Sohn,Younsook Yeo,Enablers for Patients to Adopt Web-Based Personal Health Records (PHR).,IJEA,2016,8,1-12
+Alina Christova,Future Developments of E-Modules: The Role of Interactive Tools and Multimedia in Teaching European Studies Online.,IJEA,2011,3,22-28
+Quangdung Tran,Dechun Huang,Changzheng Zhang,An Assessment Method of the Integrated E-Commerce Readiness for Construction Organizations in Developing Countries.,IJEA,2013,5,37-51
+Alireza Abroud,Yap Voon Choong,Saravanan Muthaiyah,A Conceptual Framework for Online Stock Trading Service Adoption.,IJEA,2013,5,52-67
+Adeyinka Tella,S. M. Mutula,Athulang Mutshewa,Angelina Totolo,An Evaluation of WebCT Course Content Management System at the University of Botswana.,IJEA,2010,2,48-78
+Sheila M. Smith,Jensen Zhao,Melody Alexander,Social Commerce from a Theory of Planned Behavior Paradigm: An Analysis of Purchase Intention.,IJEA,2013,5,76-88
+Afzaal H. Seyal,Determinants of E-Banking Among Bruneian Corporate Customers: An Application of Theory of Planned Behavior.,IJEA,2011,3,13-28
+Malliga Marimuthu,Azizah Omar,T. Ramayah,Osman Mohamad,Readiness to Adopt E-Business Among SMEs in Malaysia: Antecedents and Consequence.,IJEA,2011,3,1-19
+Elise McAuley,Chandana Unnithan,Sofie Karamzalis,Implementing Scanned Medical Record Systems in Australia: A Structured Case Study on Envisioned Changes to Elective Admissions Process in a Victorian Hospital.,IJEA,2012,4,29-54
+Sinawong Sang,Jeong-Dong Lee,Jongsu Lee,Adoption of E-Government Services: The Case of Electronic Approval System.,IJEA,2009,1,1-22
+Sim Chia Hua,Modapothala Jashua Rajesh,Lau Bee Theng,Determinants of E-Commerce Adoption Among Small and Medium-Sized Enterprises in Malaysia.,IJEA,2009,1,1-18
+Renato Iannella,Towards E-Society Policy Interoperability for Social Web Networks.,IJEA,2010,2,13-29
+Kun Chang Lee,Namho Chung,Exploring Antecedents of Behavior Intention to Use Internet Banking in Korea: Adoption Perspective.,IJEA,2009,1,30-47
+M. Erdal Balaban,Elif Kartal,A Roadmap to Implement Rapid Transition as a Proposal of e-Learning Model.,IJEA,2014,6,46-62
+Ajit N. Babu,P. S. Ramkumar,James E. Stahl,Utility of a Technology Allocation Matrix for Optimizing Telehealth Services: A Case Study of Telemonitoring in Congestive Heart Failure.,IJEA,2012,4,1-15
+Xueping Li,Rapinder Sawhney,Eric John Arendt,Karuppuchamy Ramasamy,A comparative analysis of management accounting systems' impact on lean implementation.,IJTM,2012,57,33-48
+Siong Choy Chong,Binshan Lin,Exploring Knowledge Management (KM) issues and KM performance outcomes: empirical evidence from Malaysian Multimedia Super Corridor companies.,IJTM,2008,43,285-303
+Maria do Rosário Cabrita,Nick Bontis,Intellectual capital and business performance in the Portuguese banking industry.,IJTM,2008,43,212-237
+Wei Wei,Donghong Li,Jay Chok,Delin Yang,Huiyong Shang,The impact of founders' academic experiences on linking with local alma maters for Chinese start-ups.,IJTM,2013,62,177-192
+Leonardo P. Santiago,An empirical investigation on the appropriateness of flexibility approach to the product portfolio selection.,IJTM,2008,44,251-268
+James Edward Whitworth,Susan Rebstock Williams,Prashant C. Palvia,Cheryl Aasheim,Measuring the impact of global information technology applications.,IJTM,2005,29,280-294
+Charles V. Trappey,Tsui-Yii Shih,Thien Hoang,Marketing intellectual property using electronic libraries: a survey of system-on-chip engineers and managers in Sweden and Taiwan.,IJTM,2006,36,368-386
+Roel W. Schuring,Harald Luijten,Reinventing suggestion systems for continuous improvement.,IJTM,2001,22,359-372
+David Bennett,Kirit Vaidya,Meeting technology needs of enterprises for national competitiveness.,IJTM,2005,32,112-153
+Jerry Kolo,The knowledge economy: concept, global trends and strategic challenges for Africa in the quest for sustainable development.,IJTM,2009,45,27-49
+Li Cai,Juanyi Chen,Xiuqing Peng,Biao Chen,The effect of symbiosis strategy on opportunity creation: case study of new ventures in China.,IJTM,2016,72,171-191
+Milan Zeleny,Strategy and strategic action in the global era: overcoming the knowing-doing gap.,IJTM,2008,43,64-75
+Toshio Itoh,Abduction for creativity.,IJTM,2003,25,507-516
+Martin Berger,Javier Revilla Diez,Do firms require an efficient innovation system to develop innovative technological capabilities? Empirical evidence from Singapore, Malaysia and Thailand.,IJTM,2006,36,267-285
+Frank Keuper,Gerrit Brosel,Rene Hans,E-entrepreneurship strategies to overcome barriers to market entry - a system theory and cybernetics perspective.,IJTM,2006,33,389-405
+Matti Tuominen,Arto Rajala,Kristian Möller,Mai Anttila,Assessing innovativeness through organisational adaptability: a contingency approach.,IJTM,2003,25,643-658
+Bor-Wen Cheng,Chih-Ming Luo,Wen-Hong Chiu,Kuan-Hua Chen,Applying cluster analysis to build a patient-centric healthcare service strategy for elderly patients.,IJTM,2009,47,145-160
+Herman H. van Mal,Jeroen C. M. van den Molengraaf,Ronald H. A. M. van den Broek,Customer oriented scientific design: a "contradiction in terminis" or a winning combination?,IJTM,2002,24,194-205
+Ingrid Matthai,Cross-border networking in the Saar-Lor-Lux Region? Risks and opportunities of regional economic policies.,IJTM,2004,27,498-512
+Robert Phaal,Clare J. P. Farrukh,David R. Probert,Visualising strategy: a classification of graphical roadmap forms.,IJTM,2009,47,286-305
+Davide Chiaroni,Vittorio Chiesa,Alfredo De Massis,Federico Frattini,The knowledge-bridging role of Technical and Scientific Services in knowledge-intensive industries.,IJTM,2008,41,249-272
+Réjean Landry,Nabil Amara,Why and how do academics bridge the gap between invention and innovation?,IJTM,2012,58,174-212
+Caroline Mothe,Marc Ingham,Trust in European-Japanese R&D partnerships: a case study.,IJTM,2002,24,435-457
+Zheng Han,Fabian Jintae Froese,Recruiting and retaining R&D professionals in China.,IJTM,2010,51,387-408
+Philippe Castagliola,Giovanni Celano,Sergio Fichera,Filippo Giuffrida,A variable sampling interval S,IJTM,2007,37,125-146
+Yi-Sung Kuo,Ting-Kuei Kuo,Hsi-Peng Lu,Tim Minshall,Exploring an effective model of new product development in medical devices: a knowledge cluster approach.,IJTM,2013,63,295-312
+Mariano Nieto-Antolín,José Emilio Navas-López,Editorial: Technology and innovation management: past research, present findings and future directions.,IJTM,2006,35,1-10
+Sigvald Harryson,Sandra Kliknaite,Rafal Dudkowski,Flexibility in innovation through external learning: exploring two models for enhanced industry-university collaboration.,IJTM,2008,41,109-137
+Guy Doumeingts,GEM: GRAI evolution method: a case study.,IJTM,2001,22,189-211
+Yuan-Chieh Chang,Ming-Huei Chen,Phil Yihsing Yang,Mingshu Hua,Universities as patent- and licensing income-generating institutions: a survey in Taiwan.,IJTM,2008,42,290-309
+Iuan-Yuan Lu,Chun-Hsien Wang,Chih-Jen Mao,Technology innovation and knowledge management in the high-tech industry.,IJTM,2007,39,3-19
+Jay Mitra,Learning to grow: How new, small, high technology firms acquire cognitive and socio-political legitimacy in their regions.,IJTM,2009,46,344-370
+Kazuyoshi Ishii,Takaya Ichimura,Shuji Kondoh,Shusaku Hiraki,An innovative management system to create new values.,IJTM,2009,45,291-305
+Ursula Weisenfeld,Dirk Nissen,Kathrin Gassert,The role of knowledge and information in innovation: the case of genetic engineering.,IJTM,2003,26,640-654
+Irina Fiegenbaum,Martin Ihrig,Marko Torkkeli,Investigating open innovation strategies: a simulation study.,IJTM,2014,66,183-211
+D. S. Saroso,D. N. P. Murthy,Product quality improvement.,IJTM,2007,37,29-49
+Wen-Jung Lien,Jiann-Chyuan Wang,Su-Wan Wang,Shu-Chin Hsu,The economic impact of Taiwan's investment tax credits and its direction of adjustment.,IJTM,2010,49,140-154
+Amit Mitra,Mildred Brown,Ray Hackney,Evolutionary knowledge management: a case of system development within the manufacturing industry.,IJTM,2005,31,98-115
+Mohamed H. A. Hassan,Daniel Schaffer,When less is more but still not enough: managing academies of science in a globalised world.,IJTM,2009,46,71-82
+Helena Forsman,Ulla Annala,Small enterprises as innovators: shift from a low performer to a high performer.,IJTM,2011,56,154-171
+Frido E. Smulders,Han J. Bakker,Modelling the inter-subjective level of innovation.,IJTM,2012,60,221-241
+Diane-Gabrielle Tremblay,Angelo Dossou-Yovo,Territory, innovation processes in SMEs, and intermediary actors: the case of the ICT sector in the Greater Montreal Area.,IJTM,2015,69,1-19
+Mohsen Modarres,Mehdi Beheshtian-Ardekani,Enterprise support system architecture: integrating DSS, EIS, and simulation technologies.,IJTM,2005,31,116-128
+Fernando G. Alberti,Salvatore Sciascia,Carmine Tripodi,Federico Visconti,The entrepreneurial growth of firms located in clusters: a cross-case study.,IJTM,2011,54,53-79
+Reuven R. Levary,John Hongzin Zhao,Country attractiveness for foreign direct investment in e-commerce.,IJTM,2004,27,357-368
+Mireille Matt,Sandrine Wolff,Incentives, coordination and learning in government-sponsored vs. spontaneous inter-firm research cooperation.,IJTM,2004,27,694-711
+Armando Calabrese,Massimo Gastaldi,Nathan Levialdi,Real option's model to evaluate infrastructure flexibility: an application to photovoltaic technology.,IJTM,2005,29,173-191
+Kuang-Peng Hung,Yun-Hwa Chiang,Open innovation proclivity, entrepreneurial orientation, and perceived firm performance.,IJTM,2010,52,257-274
+Po-Young Chu,Mei-Jane Teng,Chi-Hung Huang,Hung-Shu Lin,Virtual integration and profitability: some evidence from Taiwan's IC industry.,IJTM,2005,29,152-172
+Reika Kohashi,Sam Kurokawa,New product development and creativity management in Japanese video gaming software firms.,IJTM,2005,30,365-388
+Fu-Lai Tony Yu,Technological strategies and trajectories of Hong Kong's manufacturing firms.,IJTM,2005,29,21-39
+Alexander Bassen,Doris Blasel,Ulrich Faisst,Moritz Hagenmuller,Performance measurement of corporate venture capital - balanced scorecard in theory and practice.,IJTM,2006,33,420-437
+Ailan Zhan,Zixiang (Alex) Tan,Standardisation and innovation in China: TD-SCDMA standard as a case.,IJTM,2010,51,453-468
+Yu-Shan Su,Cheng-Jung Lin,Chun-Yi Li,An assessment of innovation policy in Taiwan's electric vehicle industry.,IJTM,2016,72,210-229
+Bal Athwal,Fotios C. Harmantzis,Venkata Praveen Tanguturi,Valuing Hosted VoIP services in the enterprise market: case application using real options.,IJTM,2010,49,250-271
+Ana M. Romero-Martinez,Marta Ortiz-de-Urbina-Criado,The role of regional location in innovativeness.,IJTM,2011,54,94-115
+Yasuo Kusaka,Yoshiki Nakamura,Jim Brogan,Product development for successive generations: creating decision support graphic information utilising a generalised cost performance curve.,IJTM,2011,53,216-237
+Norlida Buniyamin,Kevin D. Barber,The intranet: a platform for knowledge management system based on knowledge mapping.,IJTM,2004,28,729-746
+A. A. Bodnar,R. Hawley,The role of engineering in knowledge management - the key to wealth creation.,IJTM,2001,22,263-277
+John Bessant,Dealing with discontinuous innovation: the European experience.,IJTM,2008,42,36-50
+Helen Lawton Smith,Keith Dickson,Geo-cultural influences and critical factors in inter-firm collaboration.,IJTM,2003,25,34-50
+Krzysztof Klincewicz,Kumiko Miyazaki,Sectoral systems of innovation in Asia. The case of software research activities.,IJTM,2011,53,161-189
+Marc Gruber,Joachim Henkel,New ventures based on open innovation - an empirical analysis of start-up firms in embedded Linux.,IJTM,2006,33,356-372
+Poh Kam Wong,Leveraging multinational corporations, fostering technopreneurship: the changing role of S&T policy in Singapore.,IJTM,2001,22,539-567
+Paolo Neirotti,Marco Cantamessa,Emilio Paolucci,Do companies with a competitive advantage make better use of IT? Evidence from Italian enterprises.,IJTM,2008,42,158-184
+Chun-Yao Tseng,Lei-Yu Wu,Innovation quality in the automobile industry: measurement indicators and performance implications.,IJTM,2007,37,162-177
+Janis L. Gogan,Ulric J. Gelinas,Ashok Rao,Learning in a consortium: a longitudinal case study.,IJTM,2007,38,90-112
+Christian Jensen,Björn Trägårdh,Narrating the Triple Helix concept in "weak" regions: lessons from Sweden.,IJTM,2004,27,513-530
+Nuria González-Alvarez,María F. Muñoz-Doyague,Causal ambiguity of technological competencies, human resource practices and competitive advantage.,IJTM,2006,35,308-328
+Seiji Manabe,Kenzo Fujisue,Sam Kurokawa,A comparative analysis of EDI integration in US and Japanese automobile suppliers.,IJTM,2005,30,389-414
+Satish Nambisan,David Wilemon,Graduate management of technology education: a global survey, critical issues and emerging trends.,IJTM,2002,24,106-120
+Kuen-Hung Tsai,Jiann-Chyuan Wang,A longitudinal examination of performance of two ways on innovation in Taiwan: internal R&D investment and external technology aquisition.,IJTM,2007,39,235-247
+Jonas Soderlund,What project management really is about: alternative perspectives on the role and practice of project management.,IJTM,2005,32,371-387
+Fiorenzo Franceschini,Maurizio Galetto,A taxonomy of model-based redundancy methods for CMM online performance verification.,IJTM,2007,37,104-124
+Yi-Chia Chiu,Joseph Z. Shyu,Applying multivariate time series models to technological product sales forecasting.,IJTM,2004,27,306-319
+Ying-Jung Yvonne Yeh,Lung-Hung Chou,Transforming a semiconductor company into a learning organisation: a bottom-up approach of knowledge management implementation.,IJTM,2007,39,219-234
+Ari-Veikko Anttiroiko,Science cities: their characteristics and future challenges.,IJTM,2004,28,395-418
+Giselle Camille Rampersad,Developing university-business cooperation through work-integrated learning.,IJTM,2015,68,203-227
+Med Kechidi,Damien Talbot,Institutions and coordination: what is the contribution of a proximity-based analysis? The case of Airbus and its relations with the subcontracting network.,IJTM,2010,50,285-299
+Arie P. Nagel,Beyond Knut Holt's Fusion model, balancing market pull and technology push.,IJTM,2003,25,605-622
+Stephen A. Sebo,Eva A. Sebo,Societal reaction to the power frequency electric and magnetic field effects of electric utility systems.,IJTM,2000,19,439-452
+Alan L. Porter,Scott W. Cunningham,Alejandro Sanz,Advancing the forecasting innovation pathways approach: hybrid and electric vehicles case.,IJTM,2015,69,275-300
+Niki Hynes,Diane Mollenkopf,Capturing strategic alliance outcomes: an analysis of motives, objectives and outcomes.,IJTM,2008,43,194-211
+Sreenivasan Jayashree,Xu Yang,Firm's typology and strategic innovation among Chinese cosmetic industry - a strategic transformation tool.,IJTM,2015,67,132-147
+Juan Real,Antonio Leal,Jose Roldan,Determinants of Organisational Learning in the generation of technological distinctive competencies.,IJTM,2006,35,284-307
+Mario Richter,Business model innovation for sustainable energy: how German municipal utilities invest in offshore wind energy.,IJTM,2013,63,24-50
+John K. Raine,C. Piet Beukman,University technology commercialisation offices - a New Zealand perspective.,IJTM,2002,24,627-647
+Adamantia G. Pateli,George M. Giaglis,Governance contingencies for strategic technology alliances: a case in wireless business.,IJTM,2007,40,310-329
+Mohand-Said Oukil,Enhancing innovation for sustainable growth and competitiveness in North African countries.,IJTM,2009,45,114-122
+Alexander Andreichicov,Olga Andreichicova,Software for inventive problem-solving.,IJTM,2001,21,277-297
+Pitu B. Mirchandani,K. Larry Head,Model-based transportation policy analysis.,IJTM,2000,19,507-531
+Petra C. De Weerd-Nederhof,Klaasjan Visscher,Jelmer Altena,Olaf A. M. Fisscher,Operational effectiveness and strategic flexibility: scales for performance assessment of new product development systems.,IJTM,2008,44,354-372
+Bhaskar Prasad,Rudy Martens,Top management team advice-seeking and environmental competitiveness impacts on technological innovation.,IJTM,2015,69,77-92
+Vincent Mangematin,Individual careers and collective research: is there a paradox?,IJTM,2001,22,670-675
+Ferdinando Chiaromonte,Innovation and R&D management: are new paradigms observable?,IJTM,2002,23,374-409
+Zongxi Zheng,Jin Chen,Gang Zheng,Typical modes and characteristics of reverse innovation: a multiple cases study on five enterprises operated in China.,IJTM,2016,72,43-60
+Philip Raines,Cluster behaviour and economic development: new challenges in policy evaluation.,IJTM,2003,26,191-204
+Olivier Zephir,Stéphanie Minel,Emilie Chapotot,A maturity model to assess organisational readiness for change.,IJTM,2011,55,286-296
+Jie Yang,The determinants of corporate growth: evidence from Chinese high technology firms.,IJTM,2011,56,40-52
+Friedrich Pinnekamp,The internal entrepreneur as a catalyst to successful product development: a case study.,IJTM,2006,34,232-242
+Barry Shore,Benjamin J. Cross,Maintaining funding in large-scale international science projects.,IJTM,2004,27,417-430
+Mónica García-Ochoa Mayor,Nuria Bajo Davó,Félix Roux Martínez,Dynamic strategic groups' analysis and identification of mobility barriers in the European mobile phone industry.,IJTM,2016,71,253-277
+Emmanuel Mbebeb Fomba,Reinforcing experiential learning with training culture as an innovative governance strategy in informal microfinance institutions.,IJTM,2009,45,141-155
+Keng Neo Lynda Wee,A problem-based learning approach in entrepreneurship education: promoting authentic entrepreneurial learning.,IJTM,2004,28,685-701
+C. S. Tang,Ching-Yuen Chan,Kai-Leung Yung,Formation of a generic technique for manufacturing systems monitoring.,IJTM,2007,38,392-423
+Theresa Michl,Bernhard Gold,Arnold Picot,Managing strategic ambidexterity: the spin-along approach.,IJTM,2013,61,47-63
+Muhammed A. Badamas,Information, knowledge and technology management: national information technology policies for sustainable development.,IJTM,2009,45,156-176
+Eelko K. R. E. Huizingh,Maryse J. Brand,Stepwise innovation adoption: a neglected concept in innovation research.,IJTM,2009,45,267-281
+Timo Kaski,Jussi Heikkilä,Measuring product structures to improve demand-supply chain efficiency.,IJTM,2002,23,578-598
+Harry Nyström,Sten Liljedahl,From low tech to high tech: product development strategies for finding new markets and technologies.,IJTM,2002,23,448-457
+Pier A. Abetti,Pradeep Haldar,One hundred years of superconductivity: science, technology, products, profits and industry structure.,IJTM,2009,48,423-447
+Kazuo Yanagishita,Kazuyoshi Ishii,Training of new product development for industrial engineering students: a case from the Kanazawa Institute of Technology.,IJTM,2003,25,659-665
+Goery Delacote,Apoptosis: the way for science centres to thrive.,IJTM,2003,25,371-380
+Maria Jose Ruiz-Ortega,Pedro Manuel Garcia-Villaverde,Technology-oriented new ventures and entry timing.,IJTM,2010,52,46-68
+Karl-Heinz Leitner,The effect of intellectual capital on product innovativeness in SMEs.,IJTM,2011,53,1-18
+Mannie Manhong Liu,Jiang An Zhang,Bo Hu,Domestic VCs versus foreign VCs: a close look at the Chinese venture capital industry.,IJTM,2006,34,161-184
+Li-Hsing Ho,Cheng-Wei Chung,Huan-Tun Chen,Amy H. I. Lee,The effects of government SMS in Taiwan.,IJTM,2010,51,22-38
+Matti Tuominen,Mai Anttila,Strategising for innovation and inter-firm collaboration: capability analysis in assessing competitive superiority.,IJTM,2006,33,214-233
+Bas J. de Leeuw,Peter de Wolf,Frans A. J. Van den Bosch,The changing role of technology suppliers in the pharmaceutical industry: the case of drug delivery companies.,IJTM,2003,25,350-362
+Dina Pereira,João Leitão,Absorptive capacity, coopetition and generation of product innovation: contrasting Italian and Portuguese manufacturing firms.,IJTM,2016,71,10-37
+Kevin C. Desouza,Securing intellectual assets: integrating the knowledge and innovation dimensions.,IJTM,2011,54,167-203
+Toru Yoshikawa,Technology development and acquisition strategy.,IJTM,2003,25,666-674
+Erik J. De Vries,Henriette G. Brijder,Knowledge management in hybrid supply channels: a case study.,IJTM,2000,20,569-587
+Kathryn Cormican,David O'Sullivan,A collaborative knowledge management tool for product innovation management.,IJTM,2003,26,53-67
+Ming Qi,Santiago Carbó-Valverde,Francisco Rodríguez-Fernández,The diffusion pattern of non-cash payments: evidence from China.,IJTM,2016,70,44-57
+Tobias Fredberg,Real options for innovation management.,IJTM,2007,39,72-85
+Maximilian Pasche,Mats Magnusson,Continuous innovation and improvement of product platforms.,IJTM,2011,56,256-271
+Jan Olhager,Fredrik Persson,Berne Parborg,Sonny Rosen Linkoping,Supply chain impacts at Ericsson - from production units to demand-driven supply units.,IJTM,2002,23,40-59
+Frank Ruff,Corporate foresight: integrating the future business environment into innovation and strategy.,IJTM,2006,34,278-295
+Eduardo Bueno Campos,J. Alberto Aragon,Ma Paz Salmador Sánchez,Victor J. Garcia,Tangible slack versus intangible resources: the influence of technology slack and tacit knowledge on the capability of organisational learning to generate innovation and performance.,IJTM,2010,49,314-337
+Prabuddha Ganguli,Global pharmaceutical industry: intellectual wealth and asset protection.,IJTM,2003,25,248-313
+Dominique R. Jolly,Three generic resource-based strategies.,IJTM,2000,19,773-787
+Robert Huggins,Andrew Johnston,Knowledge alliances and innovation performance: an empirical perspective on the role of network resources.,IJTM,2012,57,245-265
+Masaki Kawazoe,Pier A. Abetti,Transition of strategy, marketing, R&D and new product development policies after mergers and acquisitions: a case study of SuperPower Inc. under US, Dutch and Japanese ownership.,IJTM,2014,66,32-56
+Carla C. J. M. Millar,P. Hartley Millar,Chong Ju Choi,Technology standards and increasing returns: Microsoft versus Nokia and Linux.,IJTM,2010,49,357-369
+Philip Cooke,Biotechnology clusters, "Big Pharma" and the knowledge-driven economy.,IJTM,2003,25,65-80
+Chao-Tung Wen,Yi-Wen Chen,The innovation process of entrepreneurial teams in dynamic business plan competition: from sense-making perspective.,IJTM,2007,39,346-363
+Philippe Rauffet,Catherine Da Cunha,Alain Bernard,Managing resource learning in distributed organisations with the organisational capability approach.,IJTM,2016,70,300-322
+Ville Ojanen,Jukka Hallikas,Inter-organisational routines and transformation of customer relationships in collaborative innovation.,IJTM,2009,45,306-322
+Yeong-Wha Sawng,Seung Ho Kim,Cluster characteristics and corporate performance: a case study of IT clusters in Korea.,IJTM,2007,39,311-329
+John A. Mathews,National systems of economic learning: the case of technology diffusion management in East Asia.,IJTM,2001,22,455-479
+Giampiero E. G. Beroggi,Employing analytic tools in large-scale engineering public policy-making.,IJTM,2000,19,336-356
+Rasmus Kaltoft,Harry Boer,Federico Caniato,Frank Gertsen,Rick Middel,Jacob Steendahl Nielsen,Implementing collaborative improvement - top-down, bottom-up or both?,IJTM,2007,37,306-322
+Ana Maria Baranano,Michael Bommer,David S. Jalajas,Sources of innovation for high-tech SMEs: a comparison of USA, Canada, and Portugal.,IJTM,2005,30,205-219
+Xiaolan Fu,Jizhen Li,Collaboration with foreign universities for innovation: evidence from Chinese manufacturing firms.,IJTM,2016,70,193-217
+Sam Kurokawa,Watchara Tong-Ngok,Hajime Yamada,Determinants of organisational R&D persistence: a case of semiconductor laser diodes in the USA and Japan.,IJTM,2002,23,813-835
+Kunio Shirahada,Kiyoshi Niwa,Management of technical-personnel potential: five-factor performance model and its application to management in a Japanese automotive company.,IJTM,2011,53,289-308
+Cornelius Herstatt,Christopher Lettl,Management of "technology push" development projects.,IJTM,2004,27,155-175
+Xiaobo Wu,Xuefeng Liu,Absorptive capacity, network embeddedness and local firm's knowledge acquisition in the Global Manufacturing Network.,IJTM,2009,46,326-343
+Petteri Piippo,Jouni Koivuniemi,Hannu Kärkkäinen,Markku Tuominen,Takaya Ichimura,Intranet based system for a product innovation management process.,IJTM,2003,25,631-642
+Ruey-Shyang Wu,Fengyi Lin,Shyan-Ming Yuan,Kai-Chih Liang,A reference model and integration framework for building enterprise computing platform.,IJTM,2007,38,439-462
+Mario Bourgault,Yves-Chantal Gagnon,Elisabeth Posada,Investigating the partnering strategy for information technology acquisition in public organisations.,IJTM,2004,27,193-208
+James Simmie,Corinne Siino,Jean-Mark Zuliani,Guy Jalabert,Simone Strambach,Local innovation system governance and performance: a comparative analysis of Oxfordshire, Stuttgart and Toulouse.,IJTM,2004,28,534-559
+Youngwon Park,Paul Hong,Gyewan Moon,Implementation of product strategy with differentiated standards.,IJTM,2012,57,166-184
+Clare J. P. Farrukh,Marcel Dissel,Karen Jackson,Robert Phaal,David R. Probert,Valuing technology along a timeline of technological maturity.,IJTM,2009,48,42-55
+Dimitra Pappa,Lampros K. Stergioulas,Panagiotis Telonis,The role of Knowledge Management in the pharmaceutical enterprise.,IJTM,2009,47,127-144
+Hsueh-Liang Wu,Cheng-Yu Lee,The effects of board competence on operational innovation: tests of universal, contingency and configurational models.,IJTM,2007,39,330-345
+Marcus Matthias Keupp,Oliver Gassmann,How do foreign R&D units in China manage their Chinese R&D staff? An empirical exploration.,IJTM,2011,56,73-91
+Helen Niemann,Martin G. Moehrle,Lothar Walter,The development of business method patenting in the logistics industry - insights from the case of intelligent sensor networks.,IJTM,2013,61,177-197
+Brian Taylor,Survival of science centres in New Zealand: what we can learn.,IJTM,2003,25,490-500
+Charles V. Trappey,Amy J. C. Trappey,Elma Mulaomerovic,Improving the global competitiveness of retailers using a cultural analysis of in-store digital innovations.,IJTM,2016,70,25-43
+Nigel Roome,A cybernetic model of corporate responsibility - sensing changes in business and society.,IJTM,2012,60,4-22
+Juan D. Rogers,Software's "Functional Coding" and personnel mobility in technology transfer: linkage fields between industry and publicly funded research.,IJTM,2001,22,835-850
+Junmo Kim,Chang Woo Yoo,Why 'design' does not work well for cluster policy: with the implications for Science and Technology (S&T) manpower policy.,IJTM,2007,38,321-338
+Thomas Ritter,Achim Walter,Relationship-specific antecedents of customer involvement in new product development.,IJTM,2003,26,482-501
+Matthew Paul Mount,Simon Milewski,Kiran Fernandes,Exploring the knowledge complexities of innovation intermediaries: the case of nanotechnology in the UK.,IJTM,2015,69,20-37
+Willem Van Winden,André Van Der Meer,Leo van den Berg,The development of ICT clusters in European cities: towards a typology.,IJTM,2004,28,356-387
+Feng-Shang Wu,Internationalisation of research and development: the case of Taiwanese firms.,IJTM,2007,39,297-310
+Iuan-Yuan Lu,Chie-Bein Chen,Chun-Hsien Wang,Fuzzy multiattribute analysis for evaluating firm technological innovation capability.,IJTM,2007,40,114-130
+Ching-Sung Wu,Su-Houn Liu,Chun Liang Chen,The asymmetries in strategic alliances of MNEs subsidiaries in Taiwan.,IJTM,2009,48,336-357
+Govindan Parayil,T. T. Sreekumar,Industrial development and the dynamics of innovation in Hong Kong.,IJTM,2004,27,369-392
+Henk Boddendijk,Value people, stay competitive: next Century's demands.,IJTM,2000,19,571-575
+Susana Pablo-Hernando,Transferring knowledge: PhD holders employed in Spanish technology centres.,IJTM,2015,68,228-254
+Jose Ignacio Lopez-Sanchez,Beatriz Minguela-Rata,Antonio Rodriguez-Duarte,Francesco D. Sandulli,R&D resources and diversification: controlling for indirect diversification and endogeneity.,IJTM,2006,35,136-155
+Peter Cebon,Oscar Hauptman,Chander Shekhar,Product modularity and the product life cycle: new dynamics in the interactions of product and process technologies.,IJTM,2008,42,365-386
+Klaus Nielsen,Social capital and the evaluation of innovation policies.,IJTM,2003,26,205-225
+Martin De Jong,Cost-effective use of evaluation models: an empirical cross-national investigation.,IJTM,2000,19,368-383
+Frederic Rychen,Jean-Benoit Zimmermann,Birth of a cluster: the microelectronics industry in the Marseilles Metropolitan Area.,IJTM,2002,24,792-817
+Andrew Y. C. Nee,Soh-Khim Ong,Philosophies for integrated product development.,IJTM,2001,21,221-239
+Insu Cho,Heejun Park,The influential factors on the diffusion of smartwatches in Korea.,IJTM,2016,72,230-251
+George Tsekouras,Gaining competitive advantage through knowledge integration in a European industrialising economy.,IJTM,2006,36,126-147
+Nicholas Vonortas,Koichiro Okamura,Research partners.,IJTM,2009,46,280-306
+Yeong-Wha Sawng,Seung Ho Kim,Hyun-Soo Han,R&D group characteristics and Knowledge Management activities: a comparison between ventures and large firms.,IJTM,2006,35,241-261
+Gina Colarelli O'Connor,Albert S. Paulson,Richard DeMartino,Organisational approaches to building a radical innovation dynamic capability.,IJTM,2008,44,179-204
+Antonio Ghezzi,Andrea Cavallaro,Andrea Rangone,Raffaello Balocco,On business models, resources and exogenous (dis)continuous innovation: evidences from the mobile applications industry.,IJTM,2015,68,21-48
+Eliezer Geisler,The metrics of technology evaluation: where we stand and where we should go from here.,IJTM,2002,24,341-374
+Riitta Smeds,Paola Olivari,Mariano Corso,Continuous learning in global product development: a cross-cultural comparison.,IJTM,2001,22,373-392
+B. Bowonder,Manoj. T. Thomas,Vamshi Mohan Rokkam,Artie Rokkam,Managing strategic innovation: an analysis of Dr. Reddy's Laboratories.,IJTM,2003,25,247-267
+Michael Steiner,Javier Alfonso Gil,Oliver Ehret,Michael Ploder,Rüdiger Wink,European medium-technology innovation networks: a multi-methodological multi-regional approach.,IJTM,2010,50,229-262
+Nardia Haigh,Andrew Griffiths,The environmental sustainability of information systems: considering the impact of operational strategies and practices.,IJTM,2008,43,48-63
+R. Gerard Ward,Nancy Davis Lewis,The Pacific Science Association: more than eight decades of science in and of the Pacific.,IJTM,2009,46,83-96
+Richard Hull,Rod Coombs,Malcolm Peltu,Knowledge management practices for innovation: an audit tool for improvement.,IJTM,2000,20,633-656
+Yongrae Cho,Euiseok Kim,Wonjoon Kim,Strategy transformation under technological convergence: evidence from the printed electronics industry.,IJTM,2015,67,106-131
+Magnus Blomström,Ari Kokko,Foreign direct investment and spillovers of technology.,IJTM,2001,22,435-454
+Richard Ferguson,Why firms on science parks should not be expected to show better performance - the story of twelve biotechnology firms.,IJTM,2004,28,470-482
+A. J. Berkhout,Dap Hartmann,Patrick van der Duin,Roland Ortt,Innovating the innovation process.,IJTM,2006,34,390-404
+Rick Middel,Saskia Op De Weegh,Jose Gieskes,Continuous improvement in The Netherlands: a survey-based study into current practices.,IJTM,2007,37,259-271
+Anders Drejer,David J. Bennett,Amrik S. Sohal,Impacts and relationships between three evolving disciplines.,IJTM,2002,23,2-20
+David Bennett,Xiaming Liu,David Parker 0005,Fred Steward,Kirit Vaidya,Technology transfer to China: a study of strategy in 20 EU industrial companies.,IJTM,2001,21,151-182
+Chin-Huang Lin,Ho-Li Yang,Dian-Yan Liou,A cross-national comparative analysis of industrial policy and competitive advantage.,IJTM,2010,49,93-106
+Nusa Fain,Jan Schoormans,Joze Duhovnik,The effect of R&D-marketing integration on NPD success - the case of SMEs in the growing economy of Slovenia.,IJTM,2011,56,92-107
+Luca Gastaldi,Francesco Paolo Appio,Antonella Martini,Mariano Corso,Academics as orchestrators of continuous innovation ecosystems: towards a fourth generation of CI initiatives.,IJTM,2015,68,1-20
+François Therin,Learning for innovation in high-technology small firms.,IJTM,2010,50,64-79
+Aristomenis M. Macris,D. Papakonstantinou,Flora Malamateniou,George Vassilacopoulos,Using ontology-based knowledge networks for user training in managing healthcare processes.,IJTM,2009,47,5-21
+Alok K. Chakrabarti,Pradip K. Bhaumik,Technology development in Latin America and the Caribbean: an evaluation of the process in Brazil using patent data.,IJTM,2015,68,278-298
+André Spithoven,Open innovation practices and innovative performances: an international comparative perspective.,IJTM,2013,62,1-34
+Xielin Liu,Steven White,An exploration into regional variation in innovative activity in China.,IJTM,2001,21,114-129
+Paul E. Bierly III,Paula S. Daly,Sources of external organisational learning in small manufacturing firms.,IJTM,2007,38,45-68
+Jacob Steendahl Nielsen,Harry Boer,Frank Gertsen,The influence of learning in collaborative improvement.,IJTM,2008,42,107-126
+Guus Berkhout,Patrick van der Duin,New ways of innovation: an application of the cyclic innovation model to the mobile telecom industry.,IJTM,2007,40,294-309
+Jeroen Th. Temme,Giampiero E. G. Beroggi,A hypermedia knowledge management system for conflict resolution and policy-making for new telecommunications services.,IJTM,2000,19,491-506
+Mariano Nieto,Waldo Perez,Technological assets accumulation and organisational structure in Spanish telecommunications equipment manufacturing companies: a case study.,IJTM,2004,27,40-56
+Rajneesh Narula,Bert M. Sadowski,Technological catch-up and strategic technology partnering in developing countries.,IJTM,2002,23,599-617
+Olivier Pialot,Jérémy Legardeur,Jean-François Boujut,Towards a multi-input model, method and tool for early design phases in innovation.,IJTM,2011,55,201-217
+Lung-Far Hsieh,The buyer-supplier long-term partnership effects upon the buyer's operational performance in the Taiwan center-satellite factory system.,IJTM,2004,28,243-258
+Jian Chen,Yidi Guo,Shuo Huang,Hengyuan Zhu,The determinants of the choice of innovation source for Chinese firms.,IJTM,2011,53,44-68
+Kian Wie Thee,The role of foreign direct investment in Indonesia's industrial technology development.,IJTM,2001,22,583-598
+Ulf Kletzin,Derk Micke,Hans-Jürgen Schorcht,FEA design and computation system for springs.,IJTM,2001,21,315-328
+Denis Couillard,Josée Lapierre,Leadership, learning and resources for the high-tech firm: an integrated view of technology management.,IJTM,2003,26,767-787
+George Bugliarello,Urban knowledge parks, knowledge cities and urban sustainability.,IJTM,2004,28,388-394
+Jae-Keun Lee,The technological experiences and catching-up path in the Korean mobile equipment industry.,IJTM,2007,39,364-379
+Hugo Tschirky,Stefan M. Koruna,Eckhard Lichtenthaler,Technology marketing: a firm's core competence?,IJTM,2004,27,115-122
+Dilek Cetindamar,The diffusion of environmental technologies: the case of the Turkish fertiliser industry.,IJTM,2003,26,68-87
+Sungjoo Lee,Letizia Mortara,Clive I. V. Kerr,Robert Phaal,David Probert,Analysis of document-mining techniques and tools for technology intelligence: discovering knowledge from technical documents.,IJTM,2012,60,130-156
+Rodney McAdam,Renee Reid,William Keogh,Technology and market knowledge creation and idea generation: an integrated quality approach.,IJTM,2006,34,340-359
+Tobias Kollmann,Andreas Kuckertz,Investor relations for start-ups: an analysis of venture capital investors' communicative needs.,IJTM,2006,34,47-62
+Hong Joo Lee,Sangkyun Kim,A study on the development methodology of the business model in ubiquitous technology.,IJTM,2007,38,424-438
+Shuo She,Akio Nagahira,The impact of KIBS on Japanese manufacturing corporations from the client-side point of view.,IJTM,2012,57,201-226
+Jie Yang,Mingjie Rui,Jinjun Wang,Enhancing the firm's innovation capability through knowledge management: a study of high technology firms in China.,IJTM,2006,36,305-317
+Lena Bernhofer,Zheng Han,Contextual factors and their effects on future entrepreneurs in China: a comparative study of entrepreneurial intentions.,IJTM,2014,65,125-150
+Donald E. Brown,Antonia de Medinaceli,The use of information technology for oil spill planning.,IJTM,2000,19,532-545
+Rüdiger Wink,Restructuring European aeronautics SMEs: the role of formal examination knowledge.,IJTM,2010,50,380-392
+Claus Thorp Hansen,Asko Riitahuhta,Issues on the development and application of computer tools to support product structuring and configuring.,IJTM,2001,21,240-256
+Philippe Byosiere,Denise J. Luethge,Alain Vas,Ma Paz Salmador Sánchez,Diffusion of organisational innovation: knowledge transfer through social networks.,IJTM,2010,49,401-420
+Chien-Pin Wang,Benjamin J. C. Yuan,Application of the knowledge management in the knowledge-intensive service business: the case studies at ITIS and ITRI in Taiwan.,IJTM,2007,39,198-218
+Jesús Ángel Del Brío,Beatriz Junquera,Towards sustainable competitive advantage by the innovation for the product value recovery: an empirical study in Spanish industrial companies.,IJTM,2012,57,185-200
+Claudia M. Eckert,René Keller,P. John Clarkson,Change prediction in innovative products to avoid emergency innovation.,IJTM,2011,55,226-237
+Monica Merito,Silvia Giannangeli,Andrea Bonaccorsi,Do incentives to industrial R&D enhance research productivity and firm growth? Evidence from the Italian case.,IJTM,2010,49,25-48
+Anne Kallio,Carsten Bergenholtz,Generating innovation opportunities: how to explore and absorb customer knowledge.,IJTM,2011,56,172-187
+Hyun Woo Park,Jai Kang,The internal attributes of technology as determinants of economic valuation of technology.,IJTM,2015,69,166-186
+Pascal Petit,Michel Quéré,The 'industrialisation' of venture capital: new challenges for intermediation issues.,IJTM,2006,34,126-145
+Masanori Yasumoto,Takahiro Fujimoto,Does cross-functional integration lead to adaptive capabilities? Lessons from 188 Japanese product development projects.,IJTM,2005,30,265-298
+Vincenzo Pisano,R. Duane Ireland,Michael A. Hitt,Justin W. Webb,International entrepreneurship in emerging economies: the role of social capital, knowledge development and entrepreneurial actions.,IJTM,2007,38,11-28
+Emilio J. Castilla,Networks of venture capital firms in Silicon Valley.,IJTM,2003,25,113-135
+Arianna Alfieri,Marco Cantamessa,Francesca Montagna,The SoS approach for lean manufacturing systems.,IJTM,2012,57,149-165
+Dale Littler,Alliance enigmas.,IJTM,2006,33,115-129
+Christopher Lettl,Cornelius Herstatt,Hans-Georg Gemünden,Learning from users for radical innovation.,IJTM,2006,33,25-45
+Saurav K. Dutta,Raef A. Lawson,A tale of two technologies: the financial chapter.,IJTM,2008,42,205-225
+Louis A. Lefebvre,Élisabeth Lefebvre,Virtual enterprises and virtual economy: manifestations and policy challenges.,IJTM,2000,20,58-71
+Ron Sanchez,Modular architectures, knowledge assets and organisational learning: new management processes for product creation.,IJTM,2000,19,610-629
+Marcelo Ruy,Dario Henrique Alliprandini,Organisational learning in the new product development process: findings from three case studies in Brazilian manufacturing companies.,IJTM,2008,44,461-479
+Chia-Ling Lee,Sun-Quae Lai,Performance measurement systems for knowledge management in high technology industries: a balanced scorecard framework.,IJTM,2007,39,158-176
+Nick Bontis,John Girardi,Teaching knowledge management and intellectual capital lessons: an empirical examination of the Tango simulation.,IJTM,2000,20,545-555
+Davide Aloini,Antonella Martini,Exploring the exploratory search for innovation: a structural equation modelling test for practices and performance.,IJTM,2013,61,23-46
+Claudine Soosay,Paul Hyland,Managing knowledge transfer as a strategic approach to competitive advantage.,IJTM,2008,42,143-157
+Clare J. P. Farrukh,Robert Phaal,David Probert,Technology roadmapping: linking technology resources into business planning.,IJTM,2003,26,2-19
+John Nicholas,Ann Ledwith,Davide Aloini,Antonella Martini,Anna Nosella,Searching for radical new product ideas: exploratory and confirmatory factor analysis for construct validation.,IJTM,2015,68,70-98
+Nikolaus Franke,Frank Thomas Piller,Key research issues in user interaction with user toolkits in a mass customisation system.,IJTM,2003,26,578-599
+Xiaofeng Ma,Hermann Loeh,Closing the gap: How should Chinese companies build the capabilities to implement ERP-driven process innovation?,IJTM,2007,39,380-395
+Suodi Zhang,Ping Gao,Jinghua Li,Instant messaging adoption in China: implications for young entrepreneurs.,IJTM,2014,66,288-301
+Zheng Liang,Lan Xue,The evolution of China's IPR system and its impact on the patenting behaviours and strategies of multinationals in China.,IJTM,2010,51,469-496
+José Albors-Garrigos,Noemi Zabaleta Etxebarria,Jose Hervas-Oliver,Jaione Ganzarain Epelde,Outsourced innovation in SMES: a field study of R&D units in Spain.,IJTM,2011,55,138-155
+Pierre-Guy Hourquet,Alain Roger,Event-driven careers for R&D professionals?,IJTM,2005,31,275-287
+Alessandro Sala,Paolo Landoni,Roberto Verganti,R&D networks: an evaluation framework.,IJTM,2011,53,19-43
+Jun-You Lin,Ching-Chyi Lee,Industrial structure and innovation: comparison of innovative performance between South Korea and Taiwan using patent data derived from NBER.,IJTM,2010,49,174-195
+Juan-José Sicilia,Miguel-Ángel Sicilia,Salvador Sánchez Alonso,Elena García Barriocanal,Maria Pontikaki,Knowledge representation issues in ontology-based clinical Knowledge Management systems.,IJTM,2009,47,191-206
+James Falconer,Knowledge management at a branchpoint: will we ignore the lessons of the AI discipline the way it ignored the lessons of Ludwig Wittgenstein?,IJTM,2000,20,601-632
+Junmo Kim,Are we transiting from an industrial policy to a technology policy era?: a theoretical and empirical analysis.,IJTM,2010,49,155-173
+John Mylonakis,Functions and responsibilities of marketing auditors in measuring organisational performance.,IJTM,2003,25,814-825
+Edmundas Kazimieras Zavadskas,Algirdas Andruskevicius,Valentinas Podvezko,Quantitative evaluation of the organisation of manufacturing and technological processes.,IJTM,2009,48,544-556
+Wilfried Sihn,Hansjörg Tutsch,Networks and the role of service brokers.,IJTM,2002,24,600-611
+Vasil Simeonov,Environmetrics as a tool for sustainability assessment.,IJTM,2012,60,83-95
+Yongyuth Yuthavong,The future of science and technology in Southeast Asia.,IJTM,2001,22,617-627
+Ellen de Lange-Ros,Harry Boer,Theory and practice of continuous improvement in shop-floor teams.,IJTM,2001,22,244-358
+Andrea Fernandez-Ribas,Philip Shapira,The role of national and regional innovation programmes in stimulating international cooperation in innovation.,IJTM,2009,48,473-498
+Eldon Y. Li,Jashen Chen,Yuan-Ho Huang,A framework for investigating the impact of IT capability and organisational capability on firm performance in the late industrialising context.,IJTM,2006,36,209-229
+Deli Yang,Pervez Ghauri,Mahmut Sonmez,Competitive analysis of the software industry in China.,IJTM,2005,29,64-91
+Narendra K. Rustagi,International technology transfer: a complement to economic restructuring?,IJTM,2001,21,604-611
+Suck-Chul Yoon,Technological innovation as responding to business challenges - case study and theorisation.,IJTM,2005,29,295-307
+T. R. Madanmohan,Rishikesha T. Krishnan,Adaptive strategies in the Indian pharmaceutical industry.,IJTM,2003,25,227-246
+Hugo Tschirky,Eckhard Lichtenthaler,Kuno Pfund,Integrated framework for a holistic approach to technology management.,IJTM,2000,19,357-367
+Shih-Chia Chang,Neng-Pai Lin,Chi-Lin Wea,Chwen Sheu,Aligning manufacturing capabilities with business strategy: an empirical study in high-tech industry.,IJTM,2002,24,70-87
+Pedro Solana González,Daniel Perez González,Security model applied to electronic records management: experiences and results in the nuclear sector.,IJTM,2011,54,204-228
+Maree Storer,Paul Hyland,Reconfiguration or innovation in supply chains?,IJTM,2011,56,188-207
+Chinho Lin,Shofang Chang,A relational model of medical knowledge sharing and medical decision-making quality.,IJTM,2008,43,320-348
+Leonarda Carnimeo,Michele Dassisti,Innovative quality process control via cellular neural networks.,IJTM,2007,37,86-103
+Xuanting Ye,Jian Zhang,Yun Liu,Jun Su,Study on the measurement of international knowledge flow based on the patent citation network.,IJTM,2015,69,229-245
+Rolf Sternberg,Technology centres in Germany: economic justification, effectiveness and impact on high-tech regions.,IJTM,2004,28,444-469
+Maria Olsson,Johan Wass,Leadership style and action routines: best practice manufacturing and R&D projects.,IJTM,2001,22,327-343
+Rodney McAdam,Neil Mitchell,Reconceptualising quality models to achieve innovation objectives.,IJTM,2007,37,13-28
+Marina Fiedler,Isabell M. Welpe,Commercialisation of technology innovations: an empirical study on the influence of clusters and innovation networks.,IJTM,2011,54,410-437
+Zoe Nash,Stephen J. Childe,Roger S. Maull,Factors affecting the implementation of process based change.,IJTM,2001,22,55-72
+John Steen,Peter Liesch,Martin Matthews,Lyndal Thorburn,Balancing flexibility and control: international technology and market development in Australian biotechnology firms.,IJTM,2008,41,203-222
+Christina Raasch,The sticks and carrots of integrating users into product development.,IJTM,2011,56,21-39
+Marinos Themistocleous,Vasiliki Mantzana,Vincenzo Morabito,Achieving knowledge management integration through EAI: a case study from healthcare sector.,IJTM,2009,47,114-126
+Arman Peighambari,Stefan Hennemann,Ingo Liefner,Success factors for upgrading and innovation in the electronics industry: an analysis of private small and medium-sized enterprises in the Pearl River Delta.,IJTM,2014,65,49-69
+Daniel Gerhard,Sebastian Engel,Christian Scheiner,Kai-Ingo Voigt,The application of lean principles and its effects in technology development.,IJTM,2012,57,92-109
+Francesca Michelino,Emilia Lamberti,Antonello Cammarano,Mauro Caputo,Open models for innovation: an accounting-based perspective.,IJTM,2015,68,99-121
+Tung-Jung Sung,Peter Gilmour,An empirical examination of the relationship between design, the NPI process and strategy implementation.,IJTM,2002,24,542-556
+Bordin Rassameethes,Susumu Kurokawa,Larry J. LeBlanc,EDI performance in the automotive supply chain.,IJTM,2000,20,287-303
+Bou-Wen Lin,Chung-Jen Chen,Hsueh-Liang Wu,Predicting citations to biotechnology patents based on the information from the patent documents.,IJTM,2007,40,87-100
+Ettore Bolisani,Enrico Scarso,Electronic communication and knowledge transfer.,IJTM,2000,20,116-133
+Oliver Hamilton,Daniel Shapiro,Aidan R. Vining,The growth patterns of Canadian high-tech firms.,IJTM,2002,24,458-472
+John Cantwell,Grazia D. Santangelo,The significance of European small country regions in the geographical division of labour of European Information and Communications Technology (ICT) corporations.,IJTM,2002,24,663-679
+Richard B. Dasher,Value chain restructuring and R&D portfolio management: the effects of system-on-chip integration on the semiconductor and electronics industries.,IJTM,2002,23,788-812
+Gennaro Iasevoli,Marta Massi,The relationship between sustainable business management and competitiveness: research trends and challenge.,IJTM,2012,58,32-48
+Lynn K. Mytelka,Clustering, long distance partnerships and the SME: a study of the French biotechnology sector.,IJTM,2004,27,791-808
+Ian P. McCarthy,Technology management - a complex adaptive systems approach.,IJTM,2003,25,728-745
+Paavo Ritala,Eelko Huizingh,Business and network models for innovation: strategic logic and the role of network position.,IJTM,2014,66,109-119
+Christian Longhi,A French revolution: technology management in the aerospace industry. The case of Toulouse.,IJTM,2005,29,194-215
+Guido Benzler,Rüdiger Wink,From agglomerations to technology- and knowledge-driven clusters: aeronautics cluster policies in Europe.,IJTM,2010,50,318-336
+Alexander M. Tarasyev,Chihiro Watanabe,Bing Zhu,Optimal feedbacks in techno-economic dynamics.,IJTM,2002,23,691-717
+James A. Cunningham,Paul O'Reilly,Conor O'Kane,Vincent Mangematin,Managerial challenges of publicly funded principal investigators.,IJTM,2015,68,176-202
+Mirjam Knockaert,Andy Lockett,Bart Clarysse,Mike Wright,Do human capital and fund characteristics drive follow-up behaviour of early stage high-tech VCs?,IJTM,2006,34,7-27
+Jonathan Sapsed,Ammon J. Salter,The extraction of manufacturing capability: a case of sophisticated transferee.,IJTM,2008,44,391-405
+Epictetus E. Patalinghug,An assessment of science and technology policies in the Philippines.,IJTM,2001,22,599-616
+Siri Jakobsen,Marianne Steinmo,The role of proximity dimensions in the development of innovations in coopetition: a longitudinal case study.,IJTM,2016,71,100-122
+Erica Mazzola,Manfredi Bruccoleri,Giovanni Perrone,Open innovation and firms performance: state of the art and empirical evidences from the bio-pharmaceutical industry.,IJTM,2016,70,109-134
+Javier Gavilanes-Trapote,Rosa María Río-Belver,Ernesto Cilleruelo,Gaizka Garechana,Jaso Larruscain Sarasola,Patent overlay maps: Spain and the Basque Country.,IJTM,2015,69,261-274
+Domingo Enrique Ribeiro-Soriano,Norat Roig-Tierno,Alicia Mas-Tur,Governance models of coopetition and innovation: the case of Spanish firms.,IJTM,2016,71,38-57
+Keith H. Brigham,Ronald K. Mitchell,Julio O. De Castro,Cognitive misfit and firm growth in technology-oriented SMEs.,IJTM,2010,52,4-25
+Eric Viardot,Human resources management in large information-based services companies: towards a common framework?,IJTM,2005,31,317-333
+Jen-Her Wu,Yu-Min Wang,Iuan-Yuan Lu,An empirical study on ERP-driven innovation in Taiwan.,IJTM,2005,30,32-48
+Petra Kreis-Hoyer,Jutta Gruenberg-Bochard,The use of knowledge in inter-organisational knowledge-networks: an empirical investigation.,IJTM,2006,33,196-213
+Dorien J. DeTombe,Anticipating and avoiding opposition in large technological projects.,IJTM,2000,19,301-312
+Mohamed Mamdouh Awny,Technology transfer and implementation processes in developing countries.,IJTM,2005,32,213-220
+Zvi H. Aronson,Richard R. Reilly,Gary S. Lynn,The role of leader personality in new product development success: an examination of teams developing radical and incremental innovations.,IJTM,2008,44,5-27
+Jeffrey L. Funk,Systems, components and modular design: the case of the US semiconductor industry.,IJTM,2008,42,387-413
+Ville Brummer,Ahti Salo,Juuso Nissinen,Juuso Liesiö,A methodology for the identification of prospective collaboration networks in international R&D programmes.,IJTM,2011,54,369-389
+Abdelkader Djeflat,Universities and scientific research in the Maghreb states: power politics and innovation systems.,IJTM,2009,45,102-113
+Martin Kloyer,Roland Helm,Wolfgang Burr,Compensation preferences of R&D-suppliers: some empirical results.,IJTM,2007,40,371-387
+Raffaello Balocco,Alessia Ciappini,Mariano Corso,The impact of ICT sourcing on ICT organisation, competences and continuous innovation.,IJTM,2012,60,179-201
+Salem Y. Lakhal,Souad H'Mida,The governance of international technology transfer: evidence from case-based analyses.,IJTM,2009,48,308-335
+Vareska Van de Vrande,Wim Vanhaverbeke,Oliver Gassmann,Broadening the scope of open innovation: past research, current state and future directions.,IJTM,2010,52,221-235
+Xuanting Ye,Yun Liu,Alan L. Porter,International collaborative patterns in China's nanotechnology publications.,IJTM,2012,59,255-272
+Elie Geisler,Tacit and explicit knowledge: empirical investigation in an emergency regime.,IJTM,2009,47,273-285
+Iuan-Yuan Lu,Chih-Jen Mao,Chun-Hsien Wang,Intrafirm technology and knowledge transfer: a best practice perspective.,IJTM,2010,49,338-356
+Kuo-Chang Ting,Ping Ho Ting,Po-Wen Hsiao,Why are bloggers willing to share their thoughts via travel blogs?,IJTM,2014,64,89-108
+Xiaohong Quan,Knowledge diffusion from MNC R&D labs in developing countries: evidence from interaction between MNC R&D labs and local universities in Beijing.,IJTM,2010,51,364-386
+Robert E. McDonald,Narasimhan Srinivasan,Technological innovations in hospitals: what kind of competitive advantage does adoption lead to?,IJTM,2004,28,103-117
+Li Lingji,Hu Ping,Zhang Lei,Roles, models and development trends of hi-tech industrial development zones in China.,IJTM,2004,28,633-645
+Shari S. C. Shang,Se-Hwa Wu,Chen-Yen Yao,A dynamic innovation model for managing capabilities of continuous innovation.,IJTM,2010,51,300-318
+Pia Hurmelinna-Laukkanen,The availability, strength and efficiency of appropriability mechanisms - protecting investments in knowledge creation.,IJTM,2009,45,282-290
+Jon Perr,Melissa M. Appleyard,Patrick Sullivan,Open for business: emerging business models in open source software.,IJTM,2010,52,432-456
+Alessia Ciappini,Mariano Corso,Alessandro Perego,From ICT outsourcing to strategic sourcing: managing customer-supplier relations for continuous innovation capabilities.,IJTM,2008,42,185-203
+Atsushi Inuzuka,Management by the cognitive range: a perspective on knowledge management.,IJTM,2010,49,384-400
+Phillip R. Marcus,The World Wide Web: an effective vehicle for global procurement documentation dissemination.,IJTM,2002,23,201-206
+Celina Vaquero,M. Isabel Garces,Jesus Rodriguez-Pomeda,Impact of organisation and management on complex technological systems safety: the nuclear lessons.,IJTM,2000,20,214-241
+Benjamin J. C. Yuan,Chien-Pin Wang,Gwo-Hshiung Tzeng,An emerging approach for strategy evaluation in fuel cell development.,IJTM,2005,32,302-338
+Yu-Shan Su,Hsin-Yi Hu,Feng-Shang Wu,How can small firms benefit from open innovation? The case of new drug development in Taiwan.,IJTM,2016,72,61-82
+Dion A. M. M. Metzemaekers,Critical success factors in technology management.,IJTM,2000,19,583-585
+Roland Ortt,Ruud Smits,Innovation management: different approaches to cope with the same trends.,IJTM,2006,34,296-318
+John Bessant,Bettina Von Stamm,Kathrin M. Möslein,Selection strategies for discontinuous innovation.,IJTM,2011,55,156-170
+J. Daniel Wischnevsky,Fariborz Damanpour,Radical strategic and structural change: occurrence, antecedents and consequences.,IJTM,2008,44,53-80
+Caterina Tantalo,Matteo G. Caroli,Jeff Vanevenhoven,Corporate social responsibility and SME's competitiveness.,IJTM,2012,58,129-151
+Claudio Petti,Shujun Zhang,Factors influencing technological entrepreneurship in Chinese firms: evidence from Guangdong.,IJTM,2014,65,70-95
+David Arthurs,Erin Cassidy,Charles H. Davis,David Wolfe,Indicators to support innovation cluster policy.,IJTM,2009,46,263-279
+Robert Phaal,Clare J. P. Farrukh,David R. Probert,A framework for supporting the management of technological knowledge.,IJTM,2004,27,1-15
+Howard Davies,The influence of the environment and enterprise reform on commitment to technology development in China: an empirical analysis.,IJTM,2001,21,22-41
+Bernard Guilhon,Raja Attia,Roland Rizoulieres,Markets for technology and firms' strategies: the case of the semiconductor industry.,IJTM,2004,27,123-142
+Philip Cooke,Oliver Ehret,Proximities, knowledge and skills and the future of the Welsh aerospace industry.,IJTM,2010,50,356-366
+Kerstin Cuhls,Knut Blind,Foresight in Germany: the example of the Delphi '98 or: how can the future be shaped?,IJTM,2001,21,767-780
+Rob Raven,Suzanne Van den Bosch,Rob Weterings,Transitions and strategic niche management: towards a competence kit for practitioners.,IJTM,2010,51,57-74
+Ante Pulic,VAIC™ - an accounting tool for IC management.,IJTM,2000,20,702-714
+

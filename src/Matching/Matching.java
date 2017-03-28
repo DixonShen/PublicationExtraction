@@ -3,6 +3,7 @@ package Matching;
 import Block.Block;
 import Block.MyBlock;
 
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -59,15 +60,27 @@ public class Matching {
      * @param wordsSet
      * @return
      */
-    public static double NumericMatching(MyBlock myBlock, Vocabulary wordsSet) {
-        if (wordsSet.average == 0 || wordsSet.standardDeviation == 0) return 0;
+    public static BigDecimal NumericMatching(MyBlock myBlock, Vocabulary wordsSet) {
+        if (wordsSet.average.doubleValue() == 0.0 || wordsSet.standardDeviation.doubleValue() == 0.0) return new BigDecimal("0.0");
         String terms = myBlock.getContents();
         terms = terms.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
         terms = terms.replaceAll(" +", "");
         terms = terms.replaceAll("-", "");
-        double number = Double.parseDouble(terms);
-        double exp = (number - wordsSet.average) / (2 * wordsSet.standardDeviation * wordsSet.standardDeviation);
-        return Math.pow(Math.E, -exp) / Math.sqrt(2 * Math.PI * wordsSet.standardDeviation * wordsSet.standardDeviation);
+        if (terms.isEmpty()) return new BigDecimal("0.0");
+//        if (terms == "") return new BigDecimal("0.0");
+//        double number = Double.parseDouble(terms);
+        BigDecimal number = new BigDecimal(Double.toString(Double.parseDouble(terms)));
+//        double exp = (number - wordsSet.average) / (2 * wordsSet.standardDeviation * wordsSet.standardDeviation);
+//        double maxProbDensity = Math.sqrt(2 * Math.PI * wordsSet.standardDeviation * wordsSet.standardDeviation);
+        BigDecimal exp;
+        BigDecimal diff = number.subtract(wordsSet.average).abs();
+        BigDecimal h = wordsSet.standardDeviation.multiply(wordsSet.standardDeviation);
+        h = h.multiply(new BigDecimal("2.0"));
+        exp = diff.divide(h, 10, BigDecimal.ROUND_HALF_UP);
+        System.out.println(myBlock.getContents() + ", " + wordsSet.label + ", " + "exp: " + exp.doubleValue());
+        BigDecimal res = new BigDecimal(Double.toString(Math.pow(Math.E, -exp.doubleValue())));
+        System.out.println("e^exp: " + res);
+        return res;
     }
 
     /**
@@ -77,15 +90,20 @@ public class Matching {
      * @return
      */
     public static double CalculateFitness(String term, Vocabulary wordsSet) {
-        int freq = Frequency(term, wordsSet);
-        int maxFreq = MaxFrequency(wordsSet);
-        int totalFreq = TotalFrequency(term, vocabularies);
-
+        double freq = Frequency(term, wordsSet);
+        double maxFreq = wordsSet.maxFrequency;
+        double totalFreq = TotalFrequency(term, vocabularies);
+//        if (wordsSet.label.equals("title")) {
+//            System.out.println(freq);
+//            System.out.println(maxFreq);
+//            System.out.println(totalFreq);
+//        }
         if (freq == 0 || maxFreq == 0 || totalFreq == 0)
             return 0;
 
+        double res = freq / totalFreq * freq / maxFreq;
 
-        return (freq / totalFreq * freq / maxFreq);
+        return res;
     }
 
     // the number of occurrences of one attr in KB which contains term t
@@ -94,17 +112,6 @@ public class Matching {
             return wordsSet.frequency.get(term);
         }
         return 0;
-    }
-
-    // highest frequency of any term among the occurrences of one attr
-    public static int MaxFrequency(Vocabulary wordsSet) {
-        int max = 0;
-        Map<String, Integer> freq = wordsSet.frequency;
-        for (String s : freq.keySet()) {
-            if (freq.get(s) > max)
-                max = freq.get(s);
-        }
-        return max;
     }
 
     // total number of occurrences of term t in all attrs
@@ -119,17 +126,18 @@ public class Matching {
     public static void doMatching(List<MyBlock> blocks, List<Vocabulary> vocabularyList) {
         for (MyBlock mb : blocks.toArray(new MyBlock[0])) {
             if (getType(mb)) {
-                double nmSimilarity = 0;
+                BigDecimal nmSimilarity = new BigDecimal("0.0");
                 for (Vocabulary vol : vocabularyList) {
 //                    if (vol.label.equals("title") ||
 //                            vol.label.equals("journal") ||
 //                            vol.label.equals("author"))
 //                        continue;
-                    double temp = NumericMatching(mb, vol);
+                    BigDecimal temp = NumericMatching(mb, vol);
                     System.out.println(mb.getContents() + ", " + vol.label + ": " + temp);
-                    if (temp > nmSimilarity) {
+                    if (temp.compareTo(nmSimilarity) == 1) {
                         nmSimilarity = temp;
                         mb.setLabel(vol.label);
+                        mb.setSimFunc("Numeric");
                     }
                 }
             } else {
@@ -140,6 +148,7 @@ public class Matching {
                     if (temp > af) {
                         af = temp;
                         mb.setLabel(vol.label);
+                        mb.setSimFunc("AF");
                     }
                 }
             }
@@ -156,10 +165,11 @@ public class Matching {
             System.out.println(vocabulary.label.toUpperCase() + ": " + "average value " + vocabulary.average);
             System.out.println(vocabulary.label.toUpperCase() + ": " + "standard deviation value " + vocabulary.standardDeviation);
             System.out.println("\n");
-            if (vocabulary.label.equals("volume")) {
-                for (String s : vocabulary.words)
-                    System.out.println(s);
-            }
+//            if (vocabulary.label.equals("volume")) {
+//                for (int s : vocabulary.numbers)
+//                    System.out.println(s);
+//                System.out.println("=============");
+//            }
         }
 
         String record1 = "Merged processes: a new condensed representation of Petri net behaviour. Victor_Khomenko,Alex_Kondratyev,Maciej_Koutny,Walter_Vogler， Acta Inf. 2006 43 307-330";
@@ -167,13 +177,20 @@ public class Matching {
         String record3 = "Amjad Mehmood, Muhammad Muneer Umar, Houbing Song: ICMDS: Secure inter-cluster multiple-key distribution scheme for wireless sensor networks. Ad Hoc Networks 55: 97-106 (2017)";
         String record4 = "Jochen Neusser, Veronika Schleper: Numerical schemes for the coupling of compressible and incompressible fluids in several space dimensions. Applied Mathematics and Computation 304: 65-82 (2017)";
 
-        List<MyBlock> blocks = block.doBlock(record1);
-        doMatching(blocks, vocabularies);
+        List<String> records = new ArrayList<>();
+        records.add(record1);
+        records.add(record2);
+        records.add(record3);
+        records.add(record4);
+        for (String record : records) {
+            List<MyBlock> blocks = block.doBlock(record);
+            doMatching(blocks, vocabularies);
 
-        Iterator iterator = blocks.iterator();
-        while (iterator.hasNext()) {
-            Object myBlock = iterator.next();
-            System.out.println(myBlock.toString());
+            Iterator iterator = blocks.iterator();
+            while (iterator.hasNext()) {
+                Object myBlock = iterator.next();
+                System.out.println(myBlock.toString());
+            }
         }
 
     }

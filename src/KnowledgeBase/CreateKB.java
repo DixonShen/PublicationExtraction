@@ -14,7 +14,7 @@ public class CreateKB {
 
     public Map<String, List<String>> mKB = new HashMap<>();
 
-    private static final int RECORDS_COUNT = 10000;
+    private static final int RECORDS_COUNT = 500;
 
     public static final String[] AttributeSet = {"title", "author", "sub_detail",
                                                  "pyear", "ppages", "pvolume"};
@@ -69,7 +69,7 @@ public class CreateKB {
         Map<String, List<String>> kb = create();
         Iterator iterator = kb.keySet().iterator();
         try {
-            File file = new File("knowledge_base_10000.txt");
+            File file = new File("knowledge_base_500.txt");
             FileWriter fw = new FileWriter(file);
             BufferedWriter bw = new BufferedWriter(fw);
             while (iterator.hasNext()) {
@@ -134,7 +134,8 @@ public class CreateKB {
 
     public static void main(String[] args) {
         CreateKB mKB = new CreateKB();
-        Map<String, List<String>> kb = mKB.readKBFromFile("knowledge_base_10000.txt");
+        mKB.saveToFile();
+        Map<String, List<String>> kb = mKB.readKBFromFile("knowledge_base_500.txt");
         for (String key : kb.keySet()) {
             int count = 0;
             System.out.println(key + ": " + kb.get(key).size());
