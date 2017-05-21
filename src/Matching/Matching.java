@@ -49,6 +49,7 @@ public class Matching {
         String[] terms = myBlock.getContents().split(" +");
         double af = 0;
         for (String term : terms) {
+            term = term.toLowerCase();
             af += CalculateFitness(term, wordsSet);
         }
         return af / terms.length;
@@ -140,6 +141,7 @@ public class Matching {
                         mb.setSimFunc("Numeric");
                     }
                 }
+                mb.setSimFunc("Numeric");
             } else {
                 double af = 0;
                 for (Vocabulary vol : vocabularyList) {
@@ -151,6 +153,7 @@ public class Matching {
                         mb.setSimFunc("AF");
                     }
                 }
+                mb.setSimFunc("AF");
             }
         }
     }

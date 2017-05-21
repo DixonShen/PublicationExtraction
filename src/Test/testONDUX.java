@@ -7,10 +7,7 @@ import Matching.Vocabulary;
 import Reinforcement.LabelReinforcement;
 import Reinforcement.PSModel;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -23,7 +20,7 @@ import static Matching.Matching.vocabularies;
  */
 public class testONDUX {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Block block = new Block();
         Matching match = new Matching(block.getmKB());
         System.out.println("\n");
@@ -34,12 +31,17 @@ public class testONDUX {
         String record4 = "Jochen Neusser, Veronika Schleper: Numerical schemes for the coupling of compressible and incompressible fluids in several space dimensions. Applied Mathematics and Computation 304: 65-82 (2017)";
 
         List<String> records = new ArrayList<>();
+        int count = 0;
         BufferedReader br;
         try {
-            br = new BufferedReader(new FileReader("500.txt"));
+            br = new BufferedReader(new FileReader("temp_combined_data.txt"));
             String line;
             while ((line = br.readLine()) != null) {
+                line = line.split("\t")[1];
                 records.add(line);
+                count++;
+//                if (count >= 5)
+//                    break;
             }
         }  catch (IOException e) {
             e.printStackTrace();
@@ -49,21 +51,33 @@ public class testONDUX {
         for (String record : records) {
             List<MyBlock> blocks = block.doBlock(record);
             doMatching(blocks, vocabularies);
+            for (MyBlock block1 : blocks)
+                System.out.println(block1.toString());
             recordList.add(blocks);
         }
 
         PSModel psm = new PSModel();
         List<List<MyBlock>> newList = psm.PrepareBlocks(recordList, true);
+//        newList.addAll(recordList);
+        recordList = psm.PrepareBlocks(recordList, false);
+        System.out.println();
+
         psm.InitModel();
         psm.CreateModel(newList);
-        recordList = psm.PrepareBlocks(recordList, false);
-        LabelReinforcement.Reinforcement(recordList, vocabularies);
-        for (List<MyBlock> record : recordList) {
-            for (MyBlock blcok : record) {
-                System.out.println(block.toString() + " ");
-            }
-            System.out.println("\n");
-        }
 
+        LabelReinforcement.Reinforcement(recordList, vocabularies);
+        System.out.println("Final Result");
+        FileWriter fw = new FileWriter("ONDUX_result.txt");
+        for (List<MyBlock> record : recordList) {
+            for (MyBlock block2 : record) {
+                String label = block2.getLabel();
+                String[] contents = block2.getContents().split(" ");
+                for (String word : contents) {
+                    fw.write(word + " " + label + "\n");
+                }
+            }
+            fw.write("\n");
+        }
+        fw.close();
     }
 }

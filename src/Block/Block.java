@@ -14,7 +14,7 @@ public class Block {
     private boolean isFound = false;
 
     public Block() {
-        this.mKB = new CreateKB().readKBFromFile("knowledge_base_10000.txt");
+        this.mKB = new CreateKB().readKBFromFile("knowledge_base_new.txt");
         int i = 0;
         for (List<String> list : mKB.values())
             for (String s : list.toArray(new String[0]))
@@ -32,7 +32,8 @@ public class Block {
      * @return
      */
     public List<MyBlock> doBlock(String record) {
-        record = record.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
+        record = record.replaceAll("[`~!@#$^&*=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
+        record = record.replaceAll("()", "");
         System.out.println(record);
         System.out.println("start blocking step!");
         List<MyBlock> result = new ArrayList<>();
@@ -70,13 +71,16 @@ public class Block {
     }
 
     public boolean isContains(String s, String term1, String term2) {
-        s = s.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
+        s = s.replaceAll("[`~!@#$^&*=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
+        s = s.replaceAll("()", "");
         String[] terms = s.split(" +");
         return (isContain(terms, term1) && isContain(terms, term2));
     }
 
     public boolean isContain(String[] terms, String term) {
+        term = term.toLowerCase();
         for (String s : terms) {
+            s = s.toLowerCase();
             if (s.equals(term))
                 return true;
         }
@@ -85,14 +89,18 @@ public class Block {
 
     public static void main(String[] args) {
         String record1 = "Merged processes: a new condensed representation of Petri net behaviour. Victor_Khomenko,Alex_Kondratyev,Maciej_Koutny,Walter_Vogler， Acta Inf. 2006 43 307-330";
-        String record2 = "Clustering Genes Using Heterogeneous Data Sources. Erliang_Zeng,Chengyong_Yang,Tao_Li,Giri_Narasimhan IJKDB 2010 1 12-28";
+        String record2 = "Clustering Genes Using Heterogeneous Data Sources. Erliang_Zeng,Chengyong_Yang,Tao_Li,Giri_Narasimhan IJKDB 2010 12(2) 12-28";
         String record3 = "Amjad Mehmood, Muhammad Muneer Umar, Houbing Song: ICMDS: Secure inter-cluster multiple-key distribution scheme for wireless sensor networks. Ad Hoc Networks 55: 97-106 (2017)";
         String record4 = "Jochen Neusser, Veronika Schleper: Numerical schemes for the coupling of compressible and incompressible fluids in several space dimensions. Applied Mathematics and Computation 304: 65-82 (2017)";
         Block block = new Block();
-        List<MyBlock> blockRes = block.doBlock(record4);
+        List<MyBlock> blockRes = block.doBlock(record2);
         Iterator iterator = blockRes.iterator();
         while (iterator.hasNext()) {
-            Object myBlock = iterator.next();
+            MyBlock myBlock = (MyBlock) iterator.next();
+//            String terms = myBlock.getContents();
+//            terms = terms.replaceAll("[`~!@#$^&*()=|{}:;,\\\\[\\\\].<>/?！￥…（）—_【】‘；：”“。，、？]", " ");
+//            terms = terms.replaceAll(" +", "");
+//            terms = terms.replaceAll("-", "");
             System.out.println(myBlock.toString());
         }
 //        record = record.replaceAll("[\\pP]", " ");

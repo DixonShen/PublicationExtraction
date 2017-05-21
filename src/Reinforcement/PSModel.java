@@ -22,8 +22,8 @@ public class PSModel {
     public static Map<String, Map<String, Double>> T = new HashMap<>();
     public static Map<String, Map<Integer, Double>> P = new HashMap<>();
 
-    public String[] labelSet = {"begin", "title", "author", "sub_detail",
-                                        "pyear", "ppages", "pvolume", "end"};
+    public static String[] labelSet = {"begin", "title", "author", "journal",
+                                        "year", "pages", "volume", "end"};
 
     private int labelCount = 8;
     private int longestLength;
@@ -45,8 +45,12 @@ public class PSModel {
             newRecord.add(beginBlock);
             for (MyBlock block : record) {
                 // 丢弃未匹配的block，即label为None
-                if (!block.getLabel().equals("None") && isDiscard)
+                if (isDiscard) {
+                    if(!block.getLabel().equals("None"))
+                        newRecord.add(block);
+                } else {
                     newRecord.add(block);
+                }
             }
             newRecord.add(endBlock);
             res.add(newRecord);
@@ -54,6 +58,7 @@ public class PSModel {
             if (size > longestLength)
                 longestLength = size;
         }
+        System.out.println(longestLength);
         return res;
     }
 
@@ -89,7 +94,6 @@ public class PSModel {
                 int count1 = temp1.get(curBlock.getLabel());
                 count1++;
                 temp1.put(curBlock.getLabel(), count1);
-
                 if (curBlock.getLabel().equals("end"))
                     continue;
                 else {
@@ -124,14 +128,24 @@ public class PSModel {
             if (label.equals("end")) continue;
             Map<String, Double> temp1 = new HashMap<>();
             for (String label2 : labelSet) {
-                double prob = (double)t.get(label).get(label2) / (double)tCount.get(label);
-                temp1.put(label2, prob);
+                double fraction = tCount.get(label);
+                if (fraction == 0.0)
+                    temp1.put(label2, 0.0);
+                else {
+                    double prob = (double)t.get(label).get(label2) / (double)tCount.get(label);
+                    temp1.put(label2, prob);
+                }
             }
             T.put(label, temp1);
             Map<Integer, Double> temp2 = new HashMap<>();
             for (int i=1; i<longestLength; i++) {
-                double prob = (double)p.get(label).get(i) / (double)pCount.get(i);
-                temp2.put(i, prob);
+                double fraction = pCount.get(i);
+                if (fraction == 0.0)
+                    temp2.put(i, 0.0);
+                else {
+                    double prob = (double)p.get(label).get(i) / (double)pCount.get(i);
+                    temp2.put(i, prob);
+                }
             }
             P.put(label, temp2);
         }

@@ -84,6 +84,7 @@ public class ExtractFeatures {
     }
 
     public static String GetFeatures(String s) {
+        System.out.println("Extracting features of " + s);
         String features = "";
         if (isInitCap(s)) features += "INITCAPS ";
         if (isAllCaps(s)) features += "ALLCAPS ";

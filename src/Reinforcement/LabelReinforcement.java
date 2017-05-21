@@ -19,10 +19,14 @@ public class LabelReinforcement {
         for (List<MyBlock> record : records) {
             for (int i=1; i<record.size()-1; i++) {
                 MyBlock curBlock = record.get(i);
+                if (curBlock.getLabel().equals("end")) continue;
                 MyBlock preBlock = record.get(i-1);
                 Map<String, BigDecimal> sims = simRes(curBlock, vocabularyList);
                 double FS = 0.0;
-                for (String label : CreateKB.AttributeSet) {
+                for (String label : PSModel.labelSet) {
+                    if (label.equals("begin") || label.equals("end")) continue;
+                    System.out.println(record);
+                    System.out.println(label + " " + i);
                     double temp = 1 - ((1 - sims.get(label).doubleValue()) * (1 - PSModel.T.get(preBlock.getLabel()).get(label))
                             * (1 - PSModel.P.get(label).get(i)));
                     if (temp > FS){

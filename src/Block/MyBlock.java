@@ -12,6 +12,7 @@ public class MyBlock {
 
     private List<String> contents = new ArrayList<>();   // store the contents of the block
     private String label = "None";   // note the result of matching step
+//    private String realLabel = "";
     private String simFunc;
 
 //    Map<String, List<String>> map = new HashMap<>();
