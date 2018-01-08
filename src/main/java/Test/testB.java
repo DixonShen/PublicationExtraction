@@ -1,5 +1,8 @@
 package Test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by dixonshen on 2017/3/22.
  */
@@ -23,5 +26,7 @@ public class testB {
 
     public static void main(String[] args) {
         double[] s = {1, 2};
+        List<String> aList;
+
     }
 }
