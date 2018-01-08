@@ -25,6 +25,7 @@
     - DataPreprocess 预处理阶段
         - ExtractFeatures 抽取CRF中使用的特征，具体特征可查看代码
         - PrepareTrainingData 准备CRF的训练数据
+        - uc_training4crf.txt 二手车训练集
     - KnowledgeBase 知识库相关
         - CreateKB 知识库工具类，创建知识库等操作
         - KnowledgeBase 知识库类
